@@ -5,7 +5,7 @@ Documments, papers, codes, and talks for incremental learning
 **Keywords:** Incremental Learning, Continual Learning, Continuous Learning, Lifelong Learning 
 
 ## 1 Quick Start
-
+Cancel changes
 [Continual Learning | Papers With Code](https://paperswithcode.com/task/continual-learning)
 
 [Incremental Learning | Papers With Code](https://paperswithcode.com/task/incremental-learning)
