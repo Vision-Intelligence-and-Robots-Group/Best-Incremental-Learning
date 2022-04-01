@@ -132,11 +132,11 @@ to be added...
 Open-Set Learning
 Workshop](https://erodner.github.io/continuouslearningcvpr2017/)
 
-**ICML Workshop**
+**ICML Tutorial/Workshop**
 
 [ICML 2021 Workshop on Theory and Foundation of Continual Learning](https://sites.google.com/view/cl-theory-icml2021)
 
-[ICML 2021 Continual Learning with Deep Architectures](https://sites.google.com/view/cltutorial-icml2021)
+[ICML 2021 Tutorial on Continual Learning with Deep Architectures](https://sites.google.com/view/cltutorial-icml2021)
 
 [ICML2020  Workshop on Continual Learning](https://sites.google.com/view/cl-icml/)
 
