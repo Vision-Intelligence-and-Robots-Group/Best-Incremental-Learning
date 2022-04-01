@@ -101,7 +101,9 @@ to be added...
 
 **data decentralized incremental learning**
 
-to be added...
++ **[FCIL]** Federated Class-Incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.11473)[[code]](https://github.com/conditionWang/FCIL)
++ **[FedWeIT]** Federated Continual Learning with Weighted Inter-client Transfer(ICML 2021)[[paper]](https://proceedings.mlr.press/v139/yoon21b.html)[[code]](https://github.com/wyjeong/FedWeIT)
++ **[DCID]** Deep Class Incremental Learning from Decentralized Data(Arxiv 2021)[[paper]](https://arxiv.org/abs/2203.05984)
 
 **data centralized incremental learning**
 
