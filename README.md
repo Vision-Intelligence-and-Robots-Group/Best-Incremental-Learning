@@ -52,6 +52,7 @@ Documments, papers, source code, and talks for incremental learning
 ### 2.3 Settings
 
 + Few-shot Class Incremental Learning (FSCIL) [[Link](https://github.com/xyutao/fscil)]
++ ...
 
 ## 3 Paper
 
