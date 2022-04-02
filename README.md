@@ -70,35 +70,7 @@ A 'best' collection of documments, papers, source code, and talks for incrementa
 | 2017 | **Expert Gate**(CVPR 2017)[[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Aljundi_Expert_Gate_Lifelong_CVPR_2017_paper.pdf)[[code]](https://github.com/wannabeOG/ExpertNet-Pytorch)<br />**ILOD**(ICCV 2017)[[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Shmelkov_Incremental_Learning_of_ICCV_2017_paper.pdf)[[code]](https://github.com/kshmelkov/incremental_detectors)<br />**EBLL**(ICCV2017) [[paper]](https://arxiv.org/abs/1704.01920) <br />**IMM**(NIPS 2017)[[paper]](https://arxiv.org/abs/1703.08475)[[code]](https://github.com/btjhjeon/IMM_tensorflow) <br />**SI**(ICML 2017)[[paper]](https://arxiv.org/abs/1703.04200)[[code]](https://github.com/ganguli-lab/pathint) <br />**EWC**(PNAS 2017)[[paper]](https://arxiv.org/abs/1612.00796)[[code]](https://github.com/stokesj/EWC) | **iCARL**(CVPR 2017)[[paper]](https://arxiv.org/abs/1611.07725)[[code]](https://github.com/srebuffi/iCaRL) <br />**GEM**(NIPS 2017)[[paper]](https://arxiv.org/pdf/1706.08840.pdf)[[code]](https://github.com/facebookresearch/GradientEpisodicMemory) <br />**DGR**(NIPS 2017)[[paper]](https://arxiv.org/abs/1705.08690)[[code]](https://github.com/kuc2477/pytorch-deep-generative-replay) |
 | 2016 | **LwF**(ECCV 2016) [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)[[code]](https://github.com/lizhitwo/LearningWithoutForgetting) |                                                              |
 
-### 3.2 From a Label Space Perspective
-
-**Class Incremental Learning**
-
-to be added...
-
-**Task Incremental Learning**
-
-to be added...
-
-**Domain Incremental Learning**
-
-to be added...
-
-### 3.3  From an Application Perspective
-
-**Image Classification**
-
-to be added...
-
-**Object Detection**
-
-to be added...
-
-**Image Segmentation**
-
-to be added...
-
-### 3.4 From a Data Deployment Perspective
+### 3.2 From a Data Deployment Perspective
 
 **Online incremental learning**
 
