@@ -171,7 +171,7 @@ Workshop](https://erodner.github.io/continuouslearningcvpr2017/)
 
 ## 6 Reference
 
-[1]https://github.com/xialeiliu/Awesome-Incremental-Learning
+[1] https://github.com/xialeiliu/Awesome-Incremental-Learning
 
 ## 7 Contact Us
 
