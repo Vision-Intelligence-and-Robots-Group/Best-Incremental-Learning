@@ -30,11 +30,11 @@ A collection of documments, papers, source code, and talks for incremental learn
 - Continual Lifelong Learning in Natural Language Processing: A Survey (COLING 2020) [[paper]](https://www.aclweb.org/anthology/2020.coling-main.574/)
 - A Comprehensive Study of Class Incremental Learning Algorithms for Visual Tasks (Neural Networks 2020) [[paper]](https://arxiv.org/abs/2011.01844)
 - Embracing Change: Continual Learning in Deep Neural Networks(Trends in Cognitive Sciences 2020)[[paper]](https://www.sciencedirect.com/science/article/pii/S1364661320302199)
-- Towards Continual Reinforcement Learning: A Review and Perspectives(Arxiv 2020)[[paper]](https://arxiv.org/abs/2012.13490)
+- Towards Continual Reinforcement Learning: A Review and Perspectives(arXiv 2020)[[paper]](https://arxiv.org/abs/2012.13490)
 - Class-incremental learning: survey and performance evaluation(arXiv 2020) [[paper]](https://arxiv.org/abs/2010.15277) 
 - A comprehensive, application-oriented study of catastrophic forgetting in DNNs (ICLR 2019) [[paper]](https://openreview.net/forum?id=BkloRs0qK7)
 - Three scenarios for continual learning (arXiv 2019) [[paper]](https://arxiv.org/abs/1904.07734v1)
-- Continual lifelong learning with neural networks: A review(Arxiv 2019)[[paper]](https://arxiv.org/abs/1802.07569)
+- Continual lifelong learning with neural networks: A review(arXiv 2019)[[paper]](https://arxiv.org/abs/1802.07569)
 
 ### 2.2 Analysis & Study
 
@@ -78,7 +78,7 @@ to be added...
 
 **Data decentralized incremental learning**
 
-+ **[DCID]** Deep Class Incremental Learning from Decentralized Data(Arxiv 2021)[[paper]](https://arxiv.org/abs/2203.05984)
++ **[DCID]** Deep Class Incremental Learning from Decentralized Data(arXiv 2022)[[paper]](https://arxiv.org/abs/2203.05984)
 + **[FCIL]** Federated Class-Incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.11473)[[code]](https://github.com/conditionWang/FCIL)
 + **[FedWeIT]** Federated Continual Learning with Weighted Inter-client Transfer(ICML 2021)[[paper]](https://proceedings.mlr.press/v139/yoon21b.html)[[code]](https://github.com/wyjeong/FedWeIT)
 
