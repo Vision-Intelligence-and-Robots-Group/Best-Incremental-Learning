@@ -76,15 +76,16 @@ A 'best' collection of documments, papers, source code, and talks for incrementa
 
 to be added...
 
-**data decentralized incremental learning**
+**Data decentralized incremental learning**
 
++ **[DCID]** Deep Class Incremental Learning from Decentralized Data(Arxiv 2021)[[paper]](https://arxiv.org/abs/2203.05984)
 + **[FCIL]** Federated Class-Incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.11473)[[code]](https://github.com/conditionWang/FCIL)
 + **[FedWeIT]** Federated Continual Learning with Weighted Inter-client Transfer(ICML 2021)[[paper]](https://proceedings.mlr.press/v139/yoon21b.html)[[code]](https://github.com/wyjeong/FedWeIT)
-+ **[DCID]** Deep Class Incremental Learning from Decentralized Data(Arxiv 2021)[[paper]](https://arxiv.org/abs/2203.05984)
 
-**data centralized incremental learning**
+**Data centralized incremental learning**
 
-to be added...
+All other studies aforementioned expect those already in the 'Online' and 'Decentralized' section.
+
 
 ## 4 Tutorial, Workshop, & Talks
 
