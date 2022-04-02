@@ -49,7 +49,9 @@ Documments, papers, source code, and talks for incremental learning
 + Understanding the Role of Training Regimes in Continual Learning (NeurIPS 2020)[[paper]](https://proceedings.neurips.cc/paper/2020/hash/518a38cc9a0173d0b2dc088166981cf8-Abstract.html)
 + Optimal Continual Learning has Perfect Memory and is NP-HARD (ICML 2020)[[paper]](https://proceedings.mlr.press/v119/knoblauch20a.html)
 
+### 2.3 Settings
 
++ Few-shot Class Incremental Learning (FSCIL) [[Link](https://github.com/xyutao/fscil)]
 
 ## 3 Paper
 
