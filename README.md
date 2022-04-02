@@ -136,17 +136,17 @@ Workshop](https://erodner.github.io/continuouslearningcvpr2017/)
 
 ## 5 Competitions
 
-**CVPR Challenge**
+**ongoing**
 
 [3rd CLVISION CVPR Workshop Challenge 2022](https://sites.google.com/view/clvision2022/challenge)
+
+[IJCAI 2021 - International Workshop on Continual Semi-Supervised Learning](https://sites.google.com/view/sscl-workshop-ijcai-2021/)
+
+**achieved**
 
 [2rd CLVISION CVPR Workshop Challenge 2021](https://eval.ai/web/challenges/challenge-page/829/overview)
 
 [1rd CLVISION CVPR Workshop Challenge 2020](https://sites.google.com/view/clvision2020/challenge)
-
-**IJCAI Challenge**
-
-[IJCAI 2021 - International Workshop on Continual Semi-Supervised Learning](https://sites.google.com/view/sscl-workshop-ijcai-2021/)
 
 ## 6 Awecome Reference
 
