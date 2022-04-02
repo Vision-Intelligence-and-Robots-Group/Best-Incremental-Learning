@@ -142,7 +142,7 @@ Workshop](https://erodner.github.io/continuouslearningcvpr2017/)
 
 [IJCAI 2021 - International Workshop on Continual Semi-Supervised Learning](https://sites.google.com/view/sscl-workshop-ijcai-2021/)
 
-## 6 Reference
+## 6 Awecome Reference
 
 [1] https://github.com/xialeiliu/Awesome-Incremental-Learning
 
