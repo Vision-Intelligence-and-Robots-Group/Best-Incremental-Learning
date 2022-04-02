@@ -142,7 +142,7 @@ Workshop](https://erodner.github.io/continuouslearningcvpr2017/)
 
 [2rd CLVISION CVPR Workshop Challenge 2021](https://eval.ai/web/challenges/challenge-page/829/overview)
 
-[1rd CLVISION CVPR Workshop Challenge 2020]([CLVISION CVPR Workshop - Challenge](https://sites.google.com/view/clvision2020/challenge))
+[1rd CLVISION CVPR Workshop Challenge 2020](https://sites.google.com/view/clvision2020/challenge)
 
 **IJCAI Challenge**
 
