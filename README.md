@@ -173,8 +173,6 @@ Workshop](https://erodner.github.io/continuouslearningcvpr2017/)
 
 [1]https://github.com/xialeiliu/Awesome-Incremental-Learning
 
-[2]https://zhuanlan.zhihu.com/p/301117945
-
 ## 7 Contact Us
 
 Should there be any concerns on this page, please don't hesitate to let us know via [hongxiaopeng@ieee.org](mailto:hongxiaopeng@ieee.org) or [xl330@126.com](mailto:xl330@126.com).
