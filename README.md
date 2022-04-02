@@ -1,6 +1,6 @@
 # Best Incremental Learning
 
-A 'best' collection of documments, papers, source code, and talks for incremental learning.
+A collection of documments, papers, source code, and talks for incremental learning.
 
 **Keywords:** Incremental Learning, Continual Learning, Continuous Learning, Lifelong Learning, Catastrophic Forgetting
 
