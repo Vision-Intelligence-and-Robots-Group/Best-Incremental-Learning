@@ -10,7 +10,8 @@ Documments, papers, source code, and talks for incremental learning
 
 [Incremental Learning | Papers With Code](https://paperswithcode.com/task/incremental-learning)
 
-[知乎-思悥](https://www.zhihu.com/question/271184649/answer/2415451526)
+[思悥|知乎](https://www.zhihu.com/question/271184649/answer/2415451526) (In Chinese)
+[A Little Survey of Incremental Learning|知乎] (https://zhuanlan.zhihu.com/p/301117945) (In Chinese)
 
 **Origin of the Study**
 
