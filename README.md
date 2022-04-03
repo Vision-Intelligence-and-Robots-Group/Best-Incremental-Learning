@@ -22,7 +22,7 @@ A collection of documments, papers, source code, and talks for incremental learn
 
 **Toolbox**
 
-+ PyCIL: A Python Toolbox for Class-Incremental Learning)(arXiv 2021)[[paper]](https://arxiv.org/abs/2112.12533)[[code]](https://github.com/G-U-N/PyCIL)
++ PyCIL: A Python Toolbox for Class-Incremental Learning(arXiv 2021)[[paper]](https://arxiv.org/abs/2112.12533)[[code]](https://github.com/G-U-N/PyCIL)
 
 ## 2  Survey
 
