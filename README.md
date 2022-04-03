@@ -20,7 +20,7 @@ A collection of documments, papers, source code, and talks for incremental learn
 + Catastrophic forgetting in connectionist networks(1999)[[paper]](https://www.sciencedirect.com/science/article/pii/S1364661399012942)
 + Catastrophic Interference in Connectionist Networks: The Sequential Learning Problem(1989)[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0079742108605368)
 
-**ToolBox**
+**Toolbox**
 
 + PyCIL: A Python Toolbox for Class-Incremental Learning)(arXiv 2021)[[paper]](https://arxiv.org/abs/2112.12533)[[code]](https://github.com/G-U-N/PyCIL)
 
