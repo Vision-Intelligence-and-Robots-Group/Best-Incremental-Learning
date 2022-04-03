@@ -10,7 +10,7 @@ A collection of documments, papers, source code, and talks for incremental learn
 
 [Incremental Learning | Papers With Code](https://paperswithcode.com/task/incremental-learning)
 
-[思悥|知乎](https://www.zhihu.com/question/271184649/answer/2415451526) (In Chinese)
+[类别增量学习的前世今生、开源工具包 by 思悥 | 知乎 ](https://zhuanlan.zhihu.com/p/490308909?utm_source=wechat_session&utm_medium=social&utm_oi=1162267494193799168&utm_campaign=shareopn) (In Chinese)
 
 [A Little Survey of Incremental Learning|知乎](https://zhuanlan.zhihu.com/p/301117945) (In Chinese)
 
@@ -19,6 +19,10 @@ A collection of documments, papers, source code, and talks for incremental learn
 + Catastrophic Forgetting, Rehearsal and Pseudorehearsal(2001)[[paper]](https://www.tandfonline.com/doi/abs/10.1080/09540099550039318)
 + Catastrophic forgetting in connectionist networks(1999)[[paper]](https://www.sciencedirect.com/science/article/pii/S1364661399012942)
 + Catastrophic Interference in Connectionist Networks: The Sequential Learning Problem(1989)[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0079742108605368)
+
+**ToolBox**
+
++ PyCIL: A Python Toolbox for Class-Incremental Learning)(arXiv 2021)[[paper]](https://arxiv.org/abs/2112.12533)[[code]](https://github.com/G-U-N/PyCIL)
 
 ## 2  Survey
 
