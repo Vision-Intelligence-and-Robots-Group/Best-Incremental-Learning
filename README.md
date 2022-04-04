@@ -92,13 +92,13 @@ All other studies aforementioned expect those already in the 'Online' and 'Decen
 
 ## 4 Datasets
 
-[ImageNet](https://image-net.org)
-
-[Tiny ImageNet](https://www.kaggle.com/c/tiny-imagenet)
-
-[CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html)
-
-[CORe50](https://vlomonaco.github.io/core50/)
+| datasets                                                    | describes                                                    |
+| :---------------------------------------------------------- | :----------------------------------------------------------- |
+| [ImageNet](https://image-net.org)                           | There are 1.28 million training images and 50,000 validation images in over 1,000 categories. Usually crop into 224×224 color image |
+| [Tiny ImageNet](https://www.kaggle.com/c/tiny-imagenet)     | Contains 100,000 64×64 color images of 200 categories (500 per category). Each class has 500 training images, 50 validation images, and 50 test images. |
+| SubImageNet                                                 | This dataset is a 100-class subset of ImageNet's random sample, which contains approximately 130,000 images for training and 5,000 images for testing. |
+| [CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html) | This dataset is a subset of the Tiny Images dataset and consists of 60000 32x32 color images. The 100 classes in the CIFAR-100 are grouped into 20 superclasses. There are 600(500 for training and 100 for testing) images per class. |
+| [CORe50](https://vlomonaco.github.io/core50/)               | This dataset consists of 164,866 128×128 RGB-D images: 11 sessions × 50 objects × (around 300) frames per session. |
 
 ## 5 Tutorial, Workshop, & Talks
 
