@@ -10,7 +10,7 @@ A collection of documents, papers, source code, and talks for incremental learni
 
 [Incremental Learning | Papers With Code](https://paperswithcode.com/task/incremental-learning)
 
-[类别增量学习的前世今生、开源工具包 by 思悥 | 知乎 ](https://zhuanlan.zhihu.com/p/490308909?utm_source=wechat_session&utm_medium=social&utm_oi=1162267494193799168&utm_campaign=shareopn) (In Chinese)
+[Class Incremental Learning from the Past to Present by 思悥 | 知乎 ](https://zhuanlan.zhihu.com/p/490308909?utm_source=wechat_session&utm_medium=social&utm_oi=1162267494193799168&utm_campaign=shareopn) (In Chinese)
 
 [A Little Survey of Incremental Learning | 知乎](https://zhuanlan.zhihu.com/p/301117945) (In Chinese)
 
