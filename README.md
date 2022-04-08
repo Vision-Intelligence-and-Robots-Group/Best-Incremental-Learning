@@ -42,6 +42,8 @@ A collection of documents, papers, source code, and talks for incremental learni
 
 ### 2.2 Analysis & Study
 
++ **[BN Tricks]** Diagnosing Batch Normalization in Class Incremental Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2202.08025)
+
 + Probing Representation Forgetting in Supervised and Unsupervised Continual Learning (CVPR 2022) [[paper]](https://arxiv.org/abs/2203.13381)
 + Learngene: From Open-World to Your Learning Task (AAAI 2022) [[paper]](https://arxiv.org/pdf/2106.06788.pdf)
 + Continual Normalization: Rethinking Batch Normalization for Online Continual Learning (ICLR 2022) [[paper]](https://openreview.net/forum?id=vwLLQ-HwqhZ)
