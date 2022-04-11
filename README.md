@@ -64,6 +64,8 @@ A collection of documents, papers, source code, and talks for incremental learni
 
 ## 3 Paper
 
+**Tips: **you can use ctrl+F to match abbreviations with articles, or browse the [paper list](#paper-list) below.
+
 ### 3.1 From an Algorithm Perspective
 
 |      |                 Network Structure Expansion                  |                          Rehearsal                           |
@@ -175,7 +177,7 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 
 
 
-# Paper List
+# Paper List <span id='paper-list'></span>
 
 ## 2022
 
@@ -232,7 +234,7 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 + **[LCwoF-Framework]** Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting (ICCV 2021)[[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kukleva_Generalized_and_Incremental_Few-Shot_Learning_by_Explicit_Learning_and_Calibration_ICCV_2021_paper.pdf)
 + **[AFEC]** AFEC: Active Forgetting of Negative Transfer in Continual Learning(NeurIPS 2021)[[paper]](https://openreview.net/pdf/72a18fad6fce88ef0286e9c7582229cf1c8d9f93.pdf)[[code]](https://github.com/lywang3081/AFEC)
 + **[F2M]** Overcoming Catastrophic Forgetting in Incremental Few-Shot Learning by Finding Flat Minima (NeurIPS 2021) [[paper]](https://openreview.net/forum?id=ALvt7nXa2q)[[code]](https://github.com/moukamisama/F2M)
-+ **[NCL] ** Natural continual learning: success is a journey, not (just) a destination (NeurIPS 2021) [[paper]](https://openreview.net/forum?id=W9250bXDgpK)[[code]](https://github.com/tachukao/ncl) 
++ **[NCL]** Natural continual learning: success is a journey, not (just) a destination (NeurIPS 2021) [[paper]](https://openreview.net/forum?id=W9250bXDgpK)[[code]](https://github.com/tachukao/ncl) 
 + **[BCL]** Formalizing the Generalization-Forgetting Trade-off in Continual Learning (NeurIPS 2021) [[paper]](https://openreview.net/forum?id=u1XV9BPAB9)[[code]](https://github.com/krm9c/Balanced-Continual-Learning)
 + **[Posterior Meta-Replay]** Posterior Meta-Replay for Continual Learning (NeurIPS 2021)[[paper]](https://proceedings.neurips.cc/paper/2021/hash/761b42cfff120aac30045f7a110d0256-Abstract.html)
 + **[MARK]** Optimizing Reusable Knowledge for Continual Learning via Metalearning (NeurIPS 2021) [[paper]](https://openreview.net/forum?id=hHTctAv9Lvh)[[code]](https://github.com/JuliousHurtado/meta-training-setup)
