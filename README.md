@@ -64,7 +64,7 @@ A collection of documents, papers, source code, and talks for incremental learni
 
 ## 3 Paper
 
-**Tips: **you can use ctrl+F to match abbreviations with articles, or browse the [paper list](#paper-list) below.
+**Tips:** you can use ctrl+F to match abbreviations with articles, or browse the [paper list](#paper-list) below.
 
 ### 3.1 From an Algorithm Perspective
 
