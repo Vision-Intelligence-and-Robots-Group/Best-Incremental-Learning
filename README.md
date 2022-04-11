@@ -175,20 +175,16 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 
 
 
----
-
 # Paper List
 
-## Network Structure Expansion
-
-### 2022
+## 2022
 
 + **[FACT]** Forward Compatible Few-Shot Class-Incremental Learning (CVPR 2022) [[paper]](https://arxiv.org/abs/2203.06953)[[code]](https://github.com/zhoudw-zdw/CVPR22-Fact)
 + **[L2P]** Learning to Prompt for Continual Learning (CVPR 2022) [[paper]](https://arxiv.org/abs/2112.08654)[[code]](https://github.com/google-research/l2p)
-+ **[MEAT]** Meta-attention for ViT-backed Continual Learning (CVPR 2022) [[paper]](https://arxiv.org/abs/2203.11684) [[code]](https://github.com/zju-vipa/MEAT-TIL)
++ **[MEAT]** Meta-attention for ViT-backed Continual Learning (CVPR 2022) [[paper]](https://arxiv.org/abs/2203.11684)[[code]](https://github.com/zju-vipa/MEAT-TIL)
 + **[DyTox]** DyTox: Transformers for Continual Learning with DYnamic TOken Expansion (CVPR 2022) [[paper]](https://arxiv.org/abs/2111.11326)
 + **[RCIL]** Representation Compensation Networks for Continual Semantic Segmentation (CVPR 2022) [[paper]](https://arxiv.org/abs/2203.05402)[[code]](https://github.com/zhangchbin/RCIL)
-+ **[ZITS]** Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding (CVPR 2022) [[paper]](https://arxiv.org/abs/2203.00867) [[code]](https://github.com/DQiaole/ZITS_inpainting)
++ **[ZITS]** Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding (CVPR 2022) [[paper]](https://arxiv.org/abs/2203.00867)[[code]](https://github.com/DQiaole/ZITS_inpainting)
 + **[MTPSL]** Learning Multiple Dense Prediction Tasks from Partially Annotated Data(CVPR 2022)[[paper]](https://arxiv.org/abs/2111.14893)[[code]](https://github.com/VICO-UoE/MTPSL)
 + **[STCISS]** Self-training for class-incremental semantic segmentation (TNNLS 2022) [[paper]](https://arxiv.org/abs/2012.03362)
 + **[MgSvF]** MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning (TPAMI 2022) [[paper]](https://arxiv.org/abs/2006.15524)
@@ -196,3 +192,239 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 + **[RGO]** Continual Learning with Recursive Gradient Optimization (ICLR 2022) [[paper]](https://openreview.net/pdf?id=7YDLgf9_zgm)
 + **[TRGP]** TRGP: Trust Region Gradient Projection for Continual Learning (ICLR 2022) [[paper]](https://openreview.net/pdf?id=iEvAf8i6JjO)
 + **[TransIL]** Dataset Knowledge Transfer for Class-Incremental Learning without Memory (WACV 2022) [[paper]](https://arxiv.org/pdf/2110.08421.pdf)
+
+
+
++ **[MBP]** Model Behavior Preserving for Class-Incremental Learning(TNNLS 2022)[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9705128)
++ **[NECIL]** Self-Sustaining Representation Expansion for Non-Exemplar Class-Incremental Learning (CVPR 2022) [[paper]](https://arxiv.org/abs/2203.06359)
++ **[CwD]** Mimicking the Oracle: An Initial Phase Decorrelation Approach for Class Incremental Learning (CVPR 2022) [[paper]](https://arxiv.org/abs/2112.04731)[[code]](https://github.com/Yujun-Shi/CwD)
++ **[MSL]** On Generalizing Beyond Domains in Cross-Domain Continual Learning (CVPR 2022) [[paper]](https://arxiv.org/abs/2203.03970)
++ **[CoMPS]** CoMPS: Continual Meta Policy Search(ICLR 2022) [[paper]](https://openreview.net/pdf?id=PVJ6j87gOHz)
++ **[i-fuzzy]** Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference (ICLR 2022)[[paper]](https://openreview.net/pdf?id=nrGGfMbY_qK)[[code]](https://github.com/naver-ai/i-Blurry)
++ **[CLS-ER]** Learning Fast, Learning Slow: A General Continual Learning Method based on Complementary Learning System (ICLR 2022) [[paper]](https://openreview.net/pdf?id=uxxFrDwrE7Y)[[code]](https://github.com/NeurAI-Lab/CLS-ER)
++ **[DPPs]** Memory Replay with Data Compression for Continual Learning (ICLR 2022) [[paper]](https://openreview.net/pdf?id=a7H7OucbWaU)[[code]](https://github.com/andrearosasco/DistilledReplay)
++ **[OCS]** Online Coreset Selection for Rehearsal-based Continual Learning (ICLR 2022) [[paper]](https://openreview.net/pdf?id=f9D-5WNG4Nv)
++ **[InfoRS]** Information-theoretic Online Memory Selection for Continual Learning (ICLR 2022) [[paper]](https://openreview.net/pdf?id=IpctgL7khPp)
++ **[ER-AML]** New Insights on Reducing Abrupt Representation Change in Online Continual Learning (ICLR 2022) [[paper]](https://openreview.net/pdf?id=N8MaByOzUfb)[[code]](https://github.com/pclucas14/aml)
++ **[FAS]** Continual Learning with Filter Atom Swapping (ICLR 2022) [[paper]](https://openreview.net/pdf?id=metRpM4Zrcb)
++ **[LUMP]** Rethinking the Representational Continuity: Towards Unsupervised Continual Learning (ICLR 2022) [[paper]](https://openreview.net/pdf?id=9Hrka5PA7LW)
++ **[CF-IL]** Looking Back on Learned Experiences For Class/task Incremental Learning (ICLR 2022) [[paper]](https://openreview.net/pdf?id=RxplU3vmBx)[[code]](https://github.com/MozhganPourKeshavarz/Cost-Free-Incremental-Learning)[[code]](https://github.com/MozhganPourKeshavarz/Cost-Free-Incremental-Learning)
++ **[LFPT5]** LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5 (ICLR 2022) [[paper]](https://openreview.net/pdf?id=HCRVf71PMF)[[code]](https://github.com/qcwthu/Lifelong-Fewshot-Language-Learning)
++ **[Model Zoo]** Model Zoo: A Growing Brain That Learns Continually (ICLR 2022) [[paper]](https://arxiv.org/abs/2106.03027)
++ **[CandVot]** Online Continual Learning via Candidates Voting (WACV 2022) [[paper]](https://openaccess.thecvf.com/content/WACV2022/papers/He_Online_Continual_Learning_via_Candidates_Voting_WACV_2022_paper.pdf)
++ **[FlashCards]** Knowledge Capture and Replay for Continual Learning (WACV 2022) [[paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Gopalakrishnan_Knowledge_Capture_and_Replay_for_Continual_Learning_WACV_2022_paper.pdf)
+
+## 2021
+
++ **[DER]** DER:Dynamically expandable representation for class incremental learning(CVPR 2021)[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_DER_Dynamically_Expandable_Representation_for_Class_Incremental_Learning_CVPR_2021_paper.pdf)[[code]](https://github.com/Rhyssiyan/DER-ClassIL.pytorch) <br />
++ **[EFT]** Efficient Feature Transformations for Discriminative and Generative Continual Learning (CVPR 2021)[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Verma_Efficient_Feature_Transformations_for_Discriminative_and_Generative_Continual_Learning_CVPR_2021_paper.pdf)[[code]](https://github.com/vkverma01/EFT)
++ **[PASS]** Prototype Augmentation and Self-Supervision for Incremental Learning (CVPR 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Prototype_Augmentation_and_Self-Supervision_for_Incremental_Learning_CVPR_2021_paper.pdf)[[code]](https://github.com/Impression2805/CVPR21_PASS)
++ **[GeoDL]** On Learning the Geodesic Path for Incremental Learning (CVPR 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Simon_On_Learning_the_Geodesic_Path_for_Incremental_Learning_CVPR_2021_paper.pdf)[[code]](https://github.com/chrysts/geodesic_continual_learning)
++ **[IL-ReduNet]** Incremental Learning via Rate Reduction (CVPR 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Incremental_Learning_via_Rate_Reduction_CVPR_2021_paper.pdf)
++ **[PIGWM]** Image De-raining via Continual Learning (CVPR 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Image_De-Raining_via_Continual_Learning_CVPR_2021_paper.pdf)
++ **[BLIP]** Continual Learning via Bit-Level Information Preserving (CVPR 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_Continual_Learning_via_Bit-Level_Information_Preserving_CVPR_2021_paper.pdf)[[code]](https://github.com/Yujun-Shi/BLIP)
++ **[Adam-NSCL]** Training Networks in Null Space of Feature Covariance for Continual Learning (CVPR 2021)[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Training_Networks_in_Null_Space_of_Feature_Covariance_for_Continual_CVPR_2021_paper.pdf)[[code]](https://github.com/ShipengWang/Adam-NSCL)
++ **[PLOP]** PLOP: Learning without Forgetting for Continual Semantic Segmentation (CVPR 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Douillard_PLOP_Learning_Without_Forgetting_for_Continual_Semantic_Segmentation_CVPR_2021_paper.pdf)[[code]](https://github.com/arthurdouillard/CVPR2021_PLOP)
++ **[SDR]** Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations (CVPR 2021) [[paper]](https://lttm.dei.unipd.it/paper_data/SDR/)[[code]](https://github.com/LTTM/SDR)
++ **[SKD]** Semantic-aware Knowledge Distillation for Few-Shot Class-Incremental Learning (CVPR 2021) [[paper]](https://arxiv.org/abs/2103.04059)
++ **[SPB]** Striking a balance between stability and plasticity for class-incremental learning(ICCV 2021)[[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Striking_a_Balance_Between_Stability_and_Plasticity_for_Class-Incremental_Learning_ICCV_2021_paper.pdf)
++ **[Else-Net]** Else-Net: Elastic Semantic Network for Continual Action Recognition from Skeleton Data (ICCV 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Else-Net_Elastic_Semantic_Network_for_Continual_Action_Recognition_From_Skeleton_ICCV_2021_paper.pdf)
++ **[LCwoF-Framework]** Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting (ICCV 2021)[[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kukleva_Generalized_and_Incremental_Few-Shot_Learning_by_Explicit_Learning_and_Calibration_ICCV_2021_paper.pdf)
++ **[AFEC]** AFEC: Active Forgetting of Negative Transfer in Continual Learning(NeurIPS 2021)[[paper]](https://openreview.net/pdf/72a18fad6fce88ef0286e9c7582229cf1c8d9f93.pdf)[[code]](https://github.com/lywang3081/AFEC)
++ **[F2M]** Overcoming Catastrophic Forgetting in Incremental Few-Shot Learning by Finding Flat Minima (NeurIPS 2021) [[paper]](https://openreview.net/forum?id=ALvt7nXa2q)[[code]](https://github.com/moukamisama/F2M)
++ **[NCL] ** Natural continual learning: success is a journey, not (just) a destination (NeurIPS 2021) [[paper]](https://openreview.net/forum?id=W9250bXDgpK)[[code]](https://github.com/tachukao/ncl) 
++ **[BCL]** Formalizing the Generalization-Forgetting Trade-off in Continual Learning (NeurIPS 2021) [[paper]](https://openreview.net/forum?id=u1XV9BPAB9)[[code]](https://github.com/krm9c/Balanced-Continual-Learning)
++ **[Posterior Meta-Replay]** Posterior Meta-Replay for Continual Learning (NeurIPS 2021)[[paper]](https://proceedings.neurips.cc/paper/2021/hash/761b42cfff120aac30045f7a110d0256-Abstract.html)
++ **[MARK]** Optimizing Reusable Knowledge for Continual Learning via Metalearning (NeurIPS 2021) [[paper]](https://openreview.net/forum?id=hHTctAv9Lvh)[[code]](https://github.com/JuliousHurtado/meta-training-setup)
++ **[Co-occur]** Bridging Non Co-occurrence with Unlabeled In-the-wild Data for Incremental Object Detection (NeurIPS 2021) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/ffc58105bf6f8a91aba0fa2d99e6f106-Abstract.html)[[code]](https://github.com/dongnana777/bridging-non-co-occurrence) 
++ **[LINC]** Lifelong and Continual Learning Dialogue Systems: Learning during Conversation(AAAI 2021) [[paper]](https://www.cs.uic.edu/~liub/publications/LINC_paper_AAAI_2021_camera_ready.pdf)
++ **[CLNER]** Continual learning for named entity recognition(AAAI 2021)[[paper]](https://www.aaai.org/AAAI21Papers/AAAI-7791.MonaikulN.pdf)
++ **[CLIS]** A Continual Learning Framework for Uncertainty-Aware Interactive Image Segmentation(AAAI 2021) [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-2989.ZhengE.pdf)
++ **[PCL]** Continual Learning by Using Information of Each Class Holistically(AAAI 2021)
++ **[MAS3]** Unsupervised Model Adaptation for Continual Semantic Segmentation(AAAI 2021) [[paper]](https://arxiv.org/abs/2009.12518)
++ **[FSLL]** Few-Shot Lifelong Learning(AAAI 2021) [[paper]](https://arxiv.org/pdf/2103.00991.pdf)
++ **[VAR-GPs]** Variational Auto-Regressive Gaussian Processes for Continual Learning (ICML 2021) [[paper]](https://proceedings.mlr.press/v139/kapoor21b.html)
++ **[BSA]** Bayesian Structural Adaptation for Continual Learning (ICML 2021) [[paper]](https://proceedings.mlr.press/v139/kumar21a.html)
++ **[GPM]** Gradient projection memory for continual learning(ICLR 2021)[[paper]](https://arxiv.org/abs/2103.09762)[[code]](https://github.com/sahagobinda/GPM)
+
+
+
++ **[AANets]** Adaptive aggregation networks for class-incremental learning(CVPR 2021)[[paper]](https://ieeexplore.ieee.org/document/9577595)
++ **[ORDisCo]** ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-supervised Continual Learning (CVPR 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.pdf)
++ **[DDE]** Distilling Causal Effect of Data in Class-Incremental Learning(CVPR 2021)[[paper]](https://arxiv.org/abs/2103.01737)[[code]](https://github.com/JoyHuYY1412/DDE_CIL)
++ **[IIRC]** IIRC: Incremental Implicitly-Refined Classification (CVPR 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Abdelsalam_IIRC_Incremental_Implicitly-Refined_Classification_CVPR_2021_paper.pdf)
++ **[Hyper-LifelongGAN]** Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation (CVPR 2021)[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhai_Hyper-LifelongGAN_Scalable_Lifelong_Learning_for_Image_Conditioned_Generation_CVPR_2021_paper.pdf)
++ **[CEC]** Few-Shot Incremental Learning with Continually Evolved Classifiers (CVPR 2021)[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Few-Shot_Incremental_Learning_With_Continually_Evolved_Classifiers_CVPR_2021_paper.pdf) 
++ **[iMTFA]** Incremental Few-Shot Instance Segmentation (CVPR 2021)[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ganea_Incremental_Few-Shot_Instance_Segmentation_CVPR_2021_paper.pdf)
++ **[RM]** Rainbow memory: Continual learning with a memory of diverse samples(CVPR 2021)[[paper]](https://ieeexplore.ieee.org/document/9577808)
++ **[LOGD]** Layerwise Optimization by Gradient Decomposition for Continual Learning (CVPR 2021)[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Layerwise_Optimization_by_Gradient_Decomposition_for_Continual_Learning_CVPR_2021_paper.pdf)
++ **[SPPR]** Self-Promoted Prototype Refinement for Few-Shot Class-Incremental Learning(CVPR 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Zhu_Self-Promoted_Prototype_Refinement_for_Few-Shot_Class-Incremental_Learning_CVPR_2021_paper.html)
++ **[LReID]** Lifelong Person Re-Identification via Adaptive Knowledge Accumulation (CVPR 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Pu_Lifelong_Person_Re-Identification_via_Adaptive_Knowledge_Accumulation_CVPR_2021_paper.pdf)[[code]](https://github.com/TPCD/LifelongReID)
++ **[SS-IL]** SS-IL: Separated Softmax for Incremental Learning(ICCV 2021)[[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ahn_SS-IL_Separated_Softmax_for_Incremental_Learning_ICCV_2021_paper.pdf)
++ **[TCD]** Class-Incremental Learning for Action Recognition in Videos (ICCV 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Park_Class-Incremental_Learning_for_Action_Recognition_in_Videos_ICCV_2021_paper.pdf)
++ **[CLOC]** Online Continual Learning with Natural Distribution Shifts: An Empirical Study with Visual Data (ICCV 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Cai_Online_Continual_Learning_With_Natural_Distribution_Shifts_An_Empirical_Study_ICCV_2021_paper.html)[[code]](https://github.com/IntelLabs/continuallearning)
++ **[CoPE]** Continual Prototype Evolution:Learning Online from Non-Stationary Data Streams (ICCV 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/De_Lange_Continual_Prototype_Evolution_Learning_Online_From_Non-Stationary_Data_Streams_ICCV_2021_paper.pdf)[[code]](https://github.com/Mattdl/ContinualPrototypeEvolution)
++ **[Co2L]** Co2L: Contrastive Continual Learning (ICCV 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Cha_Co2L_Contrastive_Continual_Learning_ICCV_2021_paper.pdf)[[code]](https://github.com/chaht01/co2l)
++ **[SPR]** Continual Learning on Noisy Data Streams via Self-Purified Replay (ICCV 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Continual_Learning_on_Noisy_Data_Streams_via_Self-Purified_Replay_ICCV_2021_paper.pdf)
++ **[NACL]** Detection and Continual Learning of Novel Face Presentation Attacks (ICCV 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Rostami_Detection_and_Continual_Learning_of_Novel_Face_Presentation_Attacks_ICCV_2021_paper.html)
++ **[Always Be Dreaming]** Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning(ICCV 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Smith_Always_Be_Dreaming_A_New_Approach_for_Data-Free_Class-Incremental_Learning_ICCV_2021_paper.html)[[code]](https://github.com/GT-RIPL/AlwaysBeDreaming-DFCIL)
++ **[CL-HSCNet]** Continual Learning for Image-Based Camera Localization(ICCV 2021)[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Continual_Learning_for_Image-Based_Camera_Localization_ICCV_2021_paper.html)[[code]](https://github.com/AaltoVision/CL_HSCNet)
++ **[RECALL]** RECALL: Replay-based Continual Learning in Semantic Segmentation (ICCV 2021)[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Maracani_RECALL_Replay-Based_Continual_Learning_in_Semantic_Segmentation_ICCV_2021_paper.html)[[code]](https://github.com/lttm/recall)
++ **[VAE]** Synthesized Feature based Few-Shot Class-Incremental Learning on a Mixture of Subspaces (ICCV 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.pdf)
++ **[ER+T]** Rethinking Experience Replay: a Bag of Tricks for Continual Learning(ICPR 2021)[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412614)[[code]](https://github.com/hastings24/rethinking_er)
++ **[KCL]** Kernel Continual Learning (ICML 2021) [[paper]](https://proceedings.mlr.press/v139/derakhshani21a.html)[[code]](https://github.com/mmderakhshani/KCL)
++ **[MLIOD]** Incremental Object Detection via Meta-Learning(TPAMI 2021)[[paper]](https://arxiv.org/abs/2003.08798)[[code]](https://github.com/JosephKJ/iOD)
++ **[BNS]** BNS: Building Network Structures Dynamically for Continual Learning (NeurIPS 2021) [[paper]](https://papers.nips.cc/paper/2021/hash/ac64504cc249b070772848642cffe6ff-Abstract.html)
++ **[FS-DGPM]** Flattening Sharpness for Dynamic Gradient Projection Memory Benefits Continual Learning (NeurIPS 2021) [[paper]](https://openreview.net/forum?id=q1eCa1kMfDd)
++ **[SSUL]** SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning (NeurIPS  2021) [[paper]](https://proceedings.neurips.cc/paper/2021/file/5a9542c773018268fc6271f7afeea969-Paper.pdf)
++ **[DualNet]** DualNet: Continual Learning, Fast and Slow (NeurIPS 2021) [[paper]](https://openreview.net/pdf?id=eQ7Kh-QeWnO)
++ **[classAug]** Class-Incremental Learning via Dual Augmentation (NeurIPS 2021) [[paper]](https://papers.nips.cc/paper/2021/file/77ee3bc58ce560b86c2b59363281e914-Paper.pdf)
++ **[GMED]** Gradient-based Editing of Memory Examples for Online Task-free Continual Learning (NeurIPS 2021) [[paper]](https://papers.nips.cc/paper/2021/hash/f45a1078feb35de77d26b3f7a52ef502-Abstract.html)
++ **[BooVAE]** BooVAE: Boosting Approach for Continual Learning of VAE (NeurIPS 2021) [[paper]](https://papers.nips.cc/paper/2021/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html)[[code]](https://github.com/AKuzina/BooVAE)
++ **[GeMCL]** Generative vs. Discriminative: Rethinking The Meta-Continual Learning (NeurIPS 2021) [[paper]](https://papers.nips.cc/paper/2021/hash/b4e267d84075f66ebd967d95331fcc03-Abstract.html)
++ **[RMM]** RMM: Reinforced Memory Management for Class-Incremental Learning (NIPS 2021) [[paper]](https://proceedings.neurips.cc/paper/2021/file/1cbcaa5abbb6b70f378a3a03d0c26386-Paper.pdf)[[code]](https://github.com/aminbana/gemcl)
++ **[LSF]** Learning with Selective Forgetting (IJCAI 2021) [[paper]](https://www.ijcai.org/proceedings/2021/0137.pdf)
++ **[ASER]** Online Class-Incremental Continual Learning with Adversarial Shapley Value(AAAI 2021)[[paper]](https://www.aaai.org/AAAI21Papers/AAAI-9988.ShimD.pdf)[[code]](https://github.com/RaptorMai/online-continual-learning)
++ **[CML]** Curriculum-Meta Learning for Order-Robust Continual Relation Extraction(AAAI 2021)[[paper]](https://www.aaai.org/AAAI21Papers/AAAI-4847.WuT.pdf)[[code]](https://github.com/wutong8023/AAAI-CML)
++ **[HAL]** Using Hindsight to Anchor Past Knowledge in Continual Learning(AAAI 2021)[[paper]](https://www.aaai.org/AAAI21Papers/AAAI-9700.ChaudhryA.pdf)
++ **[AU]** Do Not Forget to Attend to Uncertainty While Mitigating Catastrophic Forgetting(WACV 2021) [[paper]](https://openaccess.thecvf.com/content/WACV2021/html/Kurmi_Do_Not_Forget_to_Attend_to_Uncertainty_While_Mitigating_Catastrophic_WACV_2021_paper.html)
++ **[IDBR]** Continual Learning for Text Classification with Information Disentanglement Based Regularization (NAACL 2021) [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.218.pdf)[[code]](https://github.com/GT-SALT/IDBR)
++ **[COIL]** Co-Transport for Class-Incremental Learning (ACM MM 2021) [[paper]](https://arxiv.org/pdf/2107.12654.pdf)
+
+## 2020
+
++ **[MiB]** Modeling the Background for Incremental Learning in Semantic Segmentation (CVPR 2020) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cermelli_Modeling_the_Background_for_Incremental_Learning_in_Semantic_Segmentation_CVPR_2020_paper.pdf)[[code]](https://github.com/fcdl94/MiB)
++ **[K-FAC]** Continual Learning with Extended Kronecker-factored Approximate Curvature (CVPR 2020) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Lee_Continual_Learning_With_Extended_Kronecker-Factored_Approximate_Curvature_CVPR_2020_paper.html)
++ **[SDC]** Semantic Drift Compensation for Class-Incremental Learning (CVPR 2020)[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_Semantic_Drift_Compensation_for_Class-Incremental_Learning_CVPR_2020_paper.html)[[code]](https://github.com/yulu0724/SDC-IL)
++ **[CLCL]** Compositional Continual Language Learning(ICLR 2020)[[paper]](https://openreview.net/forum?id=rklnDgHtDS)[[code]](https://github.com/yli1/CLCL)
++ **[APD]** Scalable and Order-robust Continual Learning with Additive Parameter Decomposition(ICLR 2020)[[paper]](https://arxiv.org/pdf/1902.09432.pdf)
++ **[HYPERCL]** Continual learning with hypernetworks(ICLR 2020)[[paper]](https://openreview.net/forum?id=SJgwNerKvB)[[code]](https://github.com/chrhenning/hypercl)
++ **[CN-DPM]** A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning(ICLR 2020)[[paper]](https://arxiv.org/pdf/2001.00689.pdf)
++ **[UCB]** Uncertainty-guided Continual Learning with Bayesian Neural Networks(ICLR 2020)[[paper]](https://openreview.net/forum?id=HklUCCVKDB)[[code]](https://github.com/SaynaEbrahimi/UCB)
++ **[CLAW]** Continual Learning with Adaptive Weights (CLAW)(ICLR 2020)[[paper]](https://openreview.net/forum?id=Hklso24Kwr)
++ **[CAT]** Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks (NeurIPS 2020) [[paper]](https://proceedings.neurips.cc/paper/2020/file/d7488039246a405baf6a7cbc3613a56f-Paper.pdf)[[code]](https://github.com/ZixuanKe/CAT)
++ **[AGS-CL]** Continual Learning with Node-Importance based Adaptive Group Sparse Regularization (NeurIPS 2020)[[paper]](https://proceedings.neurips.cc/paper/2020/hash/258be18e31c8188555c2ff05b4d542c3-Abstract.html)
++ **[MERLIN]** Meta-Consolidation for Continual Learning (NeurIPS 2020)[[paper]](https://proceedings.neurips.cc/paper/2020/file/a5585a4d4b12277fee5cad0880611bc6-Paper.pdf)[[code]](https://github.com/mattriemer/mer)
++ **[OSAKA]** Online Fast Adaptation and Knowledge Accumulation (OSAKA): a New Approach to Continual Learning (NeurIPS 2020) [[paper]](https://proceedings.neurips.cc/paper/2020/file/c0a271bc0ecb776a094786474322cb82-Paper.pdf)[[code]](https://github.com/ElementAI/osaka)
++ **[RATT]** RATT: Recurrent Attention to Transient Tasks for Continual Image Captioning (NeurIPS 2020)[[paper]](https://proceedings.neurips.cc/paper/2020/file/c2964caac096f26db222cb325aa267cb-Paper.pdf)
++ **[CCLL]** Calibrating CNNs for Lifelong Learning (NeurIPS 2020)[[paper]](https://proceedings.neurips.cc/paper/2020/hash/b3b43aeeacb258365cc69cdaf42a68af-Abstract.html)
++ **[CIDA]** Class-Incremental Domain Adaptation(ECCV 2020) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58601-0_4)
++ **[GraphSAIL]** GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems (CIKM 2020) [[paper]](https://dl.acm.org/doi/abs/10.1145/3340531.3412754)
++ **[ANML]** Learning to Continually Learn (ECAI 2020) [[paper]](https://arxiv.org/abs/2002.09571) [[code]](https://github.com/uvm-neurobotics-lab/ANML)
++ **[ICWR]** Initial Classifier Weights Replay for Memoryless Class Incremental Learning (BMVC 2020) [[paper]](https://arxiv.org/pdf/2008.13710.pdf)
++ **[DAM]** Incremental Learning Through Deep Adaptation(TPAMI 2020)[[paper]](https://openreview.net/pdf?id=7YDLgf9_zgm)
++ **[OGD]** Orthogonal Gradient Descent for Continual Learning(PMLR 2020)[[paper]](http://proceedings.mlr.press/v108/farajtabar20a.html)
++ **[MC-OCL]** Online Continual Learning under Extreme Memory Constraints(ECCV2020) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58604-1_43)[[code]](https://github.com/DonkeyShot21/batch-level-distillation)
++ **[OvA-INN]** OvA-INN: Continual Learning with Invertible Neural Networks (IJCNN 2020) [[paper]](https://ieeexplore.ieee.org/abstract/document/9206766)
++ **[XtarNet]** XtarNet: Learning to Extract Task-Adaptive Representation for Incremental Few-Shot Learning (ICLM 2020)[[paper]](http://proceedings.mlr.press/v119/yoon20b/yoon20b.pdf)[[code]](https://github.com/EdwinKim3069/XtarNet)
++ **[DMC]** Class-incremental learning via deep model consolidation(WACV 2020)[[paper]](https://openaccess.thecvf.com/content_WACV_2020/html/Zhang_Class-incremental_Learning_via_Deep_Model_Consolidation_WACV_2020_paper.html)
+
+
+
++ **[iTAML]** iTAML : An Incremental Task-Agnostic Meta-learning Approach (CVPR 2020) [[paper]](https://arxiv.org/pdf/2003.11652.pdf)[[code]](https://github.com/brjathu/iTAML)
++ **[TOPIC]** Few-Shot Class-Incremental Learning (CVPR 2020) [[paper]](https://arxiv.org/pdf/2004.10956.pdf)[[code]](https://github.com/xyutao/fscil)
++ **[GFR]** Generative feature replay for class-incremental learning(CVPR 2020)[[paper]](https://ieeexplore.ieee.org/document/9150851/#:~:text=Generative%20Feature%20Replay%20For%20Class-Incremental%20Learning%20Abstract%3A%20Humans,that%20the%20task-ID%20is%20unknown%20at%20inference%20time.)[[code]](https://github.com/xialeiliu/GFR-IL)
++ **[OSIL]** Incremental Learning In Online Scenario (CVPR 2020)[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/He_Incremental_Learning_in_Online_Scenario_CVPR_2020_paper.html)
++ **[ONCE]** Incremental Few-Shot Object Detection (CVPR 2020) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Perez-Rua_Incremental_Few-Shot_Object_Detection_CVPR_2020_paper.html)
++ **[WA]** Maintaining discrimination and fairness in class incremental learning(CVPR 2020)[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Maintaining_Discrimination_and_Fairness_in_Class_Incremental_Learning_CVPR_2020_paper.pdf)[[code]](https://github.com/hugoycj/Incremental-Learning-with-Weight-Aligning)
++ **[CGATE]** Conditional Channel Gated Networks for Task-Aware Continual Learning (CVPR 2020) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Abati_Conditional_Channel_Gated_Networks_for_Task-Aware_Continual_Learning_CVPR_2020_paper.html)[[code]](https://github.com/lit-leo/cgate)
++ **[Mnemonics]** Mnemonics Training: Multi-Class Incremental Learning without Forgetting (CVPR 2020) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Mnemonics_Training_Multi-Class_Incremental_Learning_Without_Forgetting_CVPR_2020_paper.html)[[code]](https://github.com/yaoyao-liu/mnemonics)
++ **[MEGA]** Improved schemes for episodic memory based lifelong learning algorithm(NeurIPS 2020)[[paper]](https://par.nsf.gov/servlets/purl/10233158)
++ **[GAN Memory]** GAN Memory with No Forgetting (NeurIPS 2020)[[paper]](https://proceedings.neurips.cc/paper/2020/hash/bf201d5407a6509fa536afc4b380577e-Abstract.html)[[code]](https://github.com/MiaoyunZhao/GANmemory_LifelongLearning)
++ **[Coreset]** Coresets via Bilevel Optimization for Continual Learning and Streaming (NeurIPS 2020)[[paper]](https://proceedings.neurips.cc/paper/2020/file/aa2a77371374094fe9e0bc1de3f94ed9-Paper.pdf)
++ **[FROMP]** Continual Deep Learning by Functional Regularisation of Memorable Past (NeurIPS 2020)[[paper]](https://proceedings.neurips.cc/paper/2020/file/2f3bbb9730639e9ea48f309d9a79ff01-Paper.pdf)[[code]](https://github.com/team-approx-bayes/fromp)
++ **[DER]** Dark Experience for General Continual Learning: a Strong, Simple Baseline (NeurIPS 2020)[[paper]](https://proceedings.neurips.cc/paper/2020/file/b704ea2c39778f07c617f6b7ce480e9e-Paper.pdf)[[code]](https://github.com/aimagelab/mammoth)
++ **[InstAParam]** Mitigating Forgetting in Online Continual Learning via Instance-Aware Parameterization (NeurIPS 2020)[[paper]](https://proceedings.neurips.cc/paper/2020/file/ca4b5656b7e193e6bb9064c672ac8dce-Paper.pdf)
++ **[BOCL]** Bi-Objective Continual Learning: Learning ‘New’ While Consolidating ‘Known’(AAAI 2020)[[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/6060)
++ **[REMIND]** Remind your neural network to prevent catastrophic forgetting(ECCV 2020)[[paper]](https://arxiv.org/pdf/1910.02509v3)[[code]](https://github.com/tyler-hayes/REMIND)
++ **[ACL]** Adversarial Continual Learning (ECCV 2020)[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58621-8_23)[[code]](https://github.com/facebookresearch/Adversarial-Continual-Learning)
++ **[TPCIL]** Topology-Preserving Class-Incremental Learning(ECCV 2020)[[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640256.pdf) 
++ **[GDumb]** GDumb:A simple approach that questions our progress in continual learning(ECCV 2020)[[paper]](https://www.robots.ox.ac.uk/~tvg/publications/2020/gdumb.pdf)[[code]](https://github.com/drimpossible/GDumb)
++ **[PRS]** Imbalanced Continual Learning with Partitioning Reservoir Sampling(ECCV 2020)[[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580409.pdf)
++ **[PODNet]** Pooled Outputs Distillation for Small-Tasks Incremental Learning(ECCV 2020)[[paper]](https://arxiv.org/abs/2004.13513)[[code]](https://github.com/arthurdouillard/incremental_learning.pytorch)
++ **[FA]** Memory-Efficient Incremental Learning Through Feature Adaptation (ECCV 2020) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_41)
++ **[L-VAEGAN]** Learning latent representions across multiple data domains using Lifelong VAEGAN (ECCV 2020) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_46)
++ **[Piggyback GAN]** Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation (ECCV 2020) [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660392.pdf)[[code]](https://github.com/arunmallya/piggyback)
++ **[IDA]** Incremental Meta-Learning via Indirect Discriminant Alignment (ECCV 2020) [[paper]](https://arxiv.org/abs/2002.04162)
++ **[RCM]** Reparameterizing Convolutions for Incremental Multi-Task Learning Without Task Interference (ECCV 2020) [[paper]](https://arxiv.org/abs/2007.12540)
++ **[LAMOL]** LAMOL: LAnguage MOdeling for Lifelong Language Learning(ICLR 2020)[[paper]](https://openreview.net/forum?id=Skgxcn4YDS)[[code]](https://github.com/chho33/LAMOL)
++ **[FRCL]** Functional Regularisation for Continual Learning with Gaussian Processes(ICLR 2020)[[paper]](https://arxiv.org/abs/1901.11356)[[code]](https://github.com/AndreevP/FRCL)
++ **[GRS]** Continual Learning with Bayesian Neural Networks for Non-Stationary Data(ICLR 2020)[[paper]](https://openreview.net/forum?id=SJlsFpVtDB)
++ **[Brain-inspired replay]** Brain-inspired replay for continual learning with artificial neural networks (Natrue Communications 2020)[[paper]](https://www.nature.com/articles/s41467-020-17866-2)[[code]](https://github.com/GMvandeVen/brain-inspired-replay)
++ **[ScaIL]** ScaIL: Classifier Weights Scaling for Class Incremental Learning (WACV 2020) [[paper]](https://openaccess.thecvf.com/content_WACV_2020/html/Belouadah_ScaIL_Classifier_Weights_Scaling_for_Class_Incremental_Learning_WACV_2020_paper.html)[[code]](https://github.com/EdenBelouadah/class-incremental-learning/tree/master/scail/)
++ **[ARPER]** Continual Learning for Natural Language Generation in Task-oriented Dialog Systems(EMNLP 2020)[[paper]](https://arxiv.org/abs/2010.00910)
++ **[DnR]** Distill and Replay for Continual Language Learning(COLING 2020) [[paper]](https://www.aclweb.org/anthology/2020.coling-main.318.pdf)
++ **[ADER]** ADER: Adaptively Distilled Exemplar Replay Towards Continual Learning for Session-based Recommendation(RecSys 2020)[[paper]](https://arxiv.org/abs/2007.12000)[[code]](https://github.com/DoubleMuL/ADER)
++ **[MUC]** More Classifiers, Less Forgetting: A Generic Multi-classifier Paradigm for Incremental Learning (ECCV 2020) [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710698.pdf)[[code]](https://github.com/liuyudut/MUC)
+
+## 2019
+
++ **[LwM]** Learning without memorizing(CVPR 2019)[[paper]](https://ieeexplore.ieee.org/document/8953962)
++ **[CPG]** Compacting, picking and growing for unforgetting continual learning(NeurIPS 2019)[[paper]](https://arxiv.org/pdf/1910.06562v1.pdf)[[code]](https://github.com/ivclab/CPG)
++ **[UCL]** Uncertainty-based continual learning with adaptive regularization(NeurIPS 2019)[[paper]](https://proceedings.neurips.cc/paper/2019/file/2c3ddf4bf13852db711dd1901fb517fa-Paper.pdf)
++ **[OML]** Meta-Learning Representations for Continual Learning(NeurIPS 2019)[[paper]](https://proceedings.neurips.cc/paper/2019/hash/f4dd765c12f2ef67f98f3558c282a9cd-Abstract.html)[[code]](https://github.com/Khurramjaved96/mrcl)
++ **[ALASSO]** Continual Learning by Asymmetric Loss Approximation with Single-Side Overestimation (ICCV 2019)[[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Continual_Learning_by_Asymmetric_Loss_Approximation_With_Single-Side_Overestimation_ICCV_2019_paper.pdf)
++ **[Learn-to-Grow]** Learn to grow: A continual structure learning framework for overcoming catastrophic forgetting(PMLR 2019)[[paper]](http://proceedings.mlr.press/v97/li19m/li19m.pdf)
++ **[OWM]** Continual Learning of Context-dependent Processing in Neural Networks(Nature Machine Intelligence 2019)[[paper]](https://www.nature.com/articles/s42256-019-0080-x#Sec2)[[code]](https://github.com/beijixiong3510/OWM)
+
+
+
++ **[LUCIR]** Learning a Unified Classifier Incrementally via Rebalancing(CVPR 2019)[[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Hou_Learning_a_Unified_Classifier_Incrementally_via_Rebalancing_CVPR_2019_paper.html)[[code]](https://github.com/hshustc/CVPR19_Incremental_Learning)
++ **[TFCL]** Task-Free Continual Learning (CVPR 2019) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Aljundi_Task-Free_Continual_Learning_CVPR_2019_paper.pdf)
++ **[GD]** Overcoming catastrophic forgetting with unlabeled data in the wild(CVPR 2019)[[paper]](https://ieeexplore.ieee.org/document/9010368)[[code]](https://github.com/kibok90/iccv2019-inc.)
++ **[DGM]** Learning to Remember: A Synaptic Plasticity Driven Framework for Continual Learning (CVPR 2019)[[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ostapenko_Learning_to_Remember_A_Synaptic_Plasticity_Driven_Framework_for_Continual_CVPR_2019_paper.pdf)
++ **[BiC]** Large Scale Incremental Learning (CVPR 2019)[[paper]](https://arxiv.org/abs/1905.13260)[[code]](https://github.com/wuyuebupt/LargeScaleIncrementalLearning)
++ **[MER]** Learning to learn without forgetting by maximizing transfer and minimizing interference(ICLR 2019)[[paper]](https://openreview.net/pdf?id=B1gTShAct7)[[code]](https://github.com/mattriemer/mer)
++ **[PGMA]** Overcoming catastrophic forgetting for continual learning via model adaptation (ICLR 2019) [[paper]](https://openreview.net/forum?id=ryGvcoA5YX)
++ **[A-GEM]** Efficient Lifelong Learning with A-GEM(ICLR 2019) [[paper]](https://arxiv.org/pdf/1812.00420.pdf)[[code]](https://github.com/facebookresearch/agem)
++ **[IL2M]** Class incremental learning with dual memory(ICCV 2019)[[paper]](https://ieeexplore.ieee.org/document/9009019)
++ **[ILCAN]** Incremental learning using conditional adversarial networks(ICCV 2019)[[paper]](https://ieeexplore.ieee.org/document/9009031)
++ **[Lifelong GAN]** Lifelong GAN: Continual Learning for Conditional Image Generation (ICCV 2019)[[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Zhai_Lifelong_GAN_Continual_Learning_for_Conditional_Image_Generation_ICCV_2019_paper.html)
++ **[GSS]** Gradient based sample selection for online continual learning(NIPS 2019)[[paper]](https://proceedings.neurips.cc/paper/2019/file/e562cd9c0768d5464b64cf61da7fc6bb-Paper.pdf)
++ **[ER]** Experience Replay for Continual Learning(NIPS 2019)[[paper]](https://arxiv.org/abs/1811.11682)
++ **[MIR]** Online Continual Learning with Maximal Interfered Retrieval(NIPS 2019)[[paper]](https://proceedings.neurips.cc/paper/2019/hash/15825aee15eb335cc13f9b559f166ee8-Abstract.html)[[code]](https://github.com/optimass/MaximallyInterferedRetrieval)
++ **[RPS-Net]** Random Path Selection for Incremental Learning (NIPS 2019)[[paper]](https://www.researchgate.net/profile/Salman-Khan-62/publication/333617650_Random_Path_Selection_for_Incremental_Learning/links/5d04905ea6fdcc39f11b7355/Random-Path-Selection-for-Incremental-Learning.pdf)
++ **[CLEER]** Complementary Learning for Overcoming Catastrophic Forgetting Using Experience Replay (IJCAI 2019) [[paper]](https://arxiv.org/abs/1903.04566)
++ **[PAE]** Increasingly Packing Multiple Facial-Informatics Modules in A Unified Deep-Learning Model via Lifelong Learning (ICMR 2019) [[paper]](https://dl.acm.org/doi/10.1145/3323873.3325053)[[code]](https://github.com/ivclab/PAE)
+
+## 2018
+
++ **[PackNet]** PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning (CVPR 2018) [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Mallya_PackNet_Adding_Multiple_CVPR_2018_paper.html)[[code]](https://github.com/arunmallya/packnet)
++ **[OLA]** Online Structured Laplace Approximations for Overcoming Catastrophic Forgetting (NIPS 2018) [[paper]](https://proceedings.neurips.cc/paper/2018/hash/f31b20466ae89669f9741e047487eb37-Abstract.html)
++ **[RCL]** Reinforced Continual Learning (NIPS 2018) [[paper]](http://papers.nips.cc/paper/7369-reinforced-continual-learning.pdf)[[code]](https://github.com/xujinfan/Reinforced-Continual-Learning)
++ **[MARL]** Routing networks: Adaptive selection of non-linear functions for multi-task learning(ICLR 2018)[[paper]](https://openreview.net/forum?id=ry8dvM-R-)
++ **[DEN]** Lifelong Learning with Dynamically Expandable Networks(ICLR 2018)[[paper]](https://openreview.net/forum?id=Sk7KsfW0-)[[code]](https://github.com/jaehong31/DEN)
++ **[Piggyback]** Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights (ECCV 2018) [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Arun_Mallya_Piggyback_Adapting_a_ECCV_2018_paper.pdf)[[code]](https://github.com/arunmallya/piggyback)
++ **[RWalk]** Riemanian Walk for Incremental Learning: Understanding Forgetting and Intransigence (ECCV 2018)[[paper]](https://openaccess.thecvf.com/content_ECCV_2018/html/Arslan_Chaudhry__Riemannian_Walk_ECCV_2018_paper.html)
++ **[MAS]** Memory Aware Synapses: Learning What (not) to Forget(ECCV 2018)[[paper]](https://arxiv.org/pdf/1711.09601.pdf)[[code]](https://github.com/rahafaljundi/MAS-Memory-Aware-Synapses)
++ **[R-EWC]** Rotate your Networks: Better Weight Consolidation and Less Catastrophic Forgetting(ICPR 2018)[[paper]](https://ieeexplore.ieee.org/abstract/document/8545895)[[code]](https://github.com/xialeiliu/RotateNetworks)
++ **[HAT]** Overcoming Catastrophic Forgetting with Hard Attention to the Task(PMLR 2018)[[paper]](http://proceedings.mlr.press/v80/serra18a.html)[[code]](https://github.com/joansj/hat)
+
+
+
++ **[MeRGANs]** Memory Replay GANs:learning to generate images from new categories without forgetting(NIPS 2018) [[paper]](https://arxiv.org/abs/1809.02058)[[code]](https://github.com/WuChenshen/MeRGAN)
++ **[EEIL]** End-to-End Incremental Learning (ECCV 2018)[[paper]](https://arxiv.org/abs/1807.09536)[[code]](https://github.com/fmcp/EndToEndIncrementalLearning)
++ **[Adaptation by Distillation]** Lifelong Learning via Progressive Distillation and Retrospection (ECCV 2018) [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Saihui_Hou_Progressive_Lifelong_Learning_ECCV_2018_paper.pdf)
++ **[ESGR]** Exemplar-Supported Generative Reproduction for Class Incremental Learning (BMVC 2018) [[paper]](http://bmvc2018.org/contents/papers/0325.pdf)[[code]](https://github.com/TonyPod/ESGR)
++ **[VCL]** Variational Continual Learning(ICLR 2018)[[paper]](https://arxiv.org/pdf/1710.10628.pdf#page=13&zoom=100,110,890)
++ **[FearNet]** FearNet: Brain-Inspired Model for Incremental Learning(ICLR 2018)[[paper]](https://openreview.net/forum?id=SJ1Xmf-Rb)
+
+## 2017
+
++ **[Expert Gate]** Expert Gate: Lifelong learning with a network of experts(CVPR 2017)[[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Aljundi_Expert_Gate_Lifelong_CVPR_2017_paper.pdf)[[code]](https://github.com/wannabeOG/ExpertNet-Pytorch)
++ **[ILOD]** Incremental Learning of Object Detectors without Catastrophic Forgetting(ICCV 2017)[[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Shmelkov_Incremental_Learning_of_ICCV_2017_paper.pdf)[[code]](https://github.com/kshmelkov/incremental_detectors)
++ **[EBLL]** Encoder Based Lifelong Learning (ICCV2017) [[paper]](https://arxiv.org/abs/1704.01920)
++ **[IMM]** Overcoming Catastrophic Forgetting by Incremental Moment Matching(NIPS 2017)[[paper]](https://arxiv.org/abs/1703.08475) [[code]](https://github.com/btjhjeon/IMM_tensorflow)
++ **[SI]** Continual Learning through Synaptic Intelligence(ICML 2017)[[paper]](http://proceedings.mlr.press/v70/zenke17a/zenke17a.pdf)[[code]](https://github.com/ganguli-lab/pathint)
++ **[EWC]** Overcoming Catastrophic Forgetting in Neural Networks (PNAS 2017)[[paper]](https://arxiv.org/abs/1612.00796)[[code]](https://github.com/stokesj/EWC)
+
+
+
++ **[iCARL]** iCaRL: Incremental Classifier and Representation Learning(CVPR 2017)[[paper]](https://arxiv.org/abs/1611.07725)[[code]](https://github.com/srebuffi/iCaRL)
++ **[GEM]** Gradient Episodic Memory for Continual Learning(NIPS 2017)[[paper]](https://proceedings.neurips.cc/paper/2017/hash/f87522788a2be2d171666752f97ddebb-Abstract.html)[[code]](https://github.com/facebookresearch/GradientEpisodicMemory)
++ **[DGR]** Continual Learning with Deep Generative Replay(NIPS 2017)[[paper]](https://proceedings.neurips.cc/paper/2017/file/0efbe98067c6c73dba1250d2beaa81f9-Paper.pdf)[[code]](https://github.com/kuc2477/pytorch-deep-generative-replay)
+
+## 2016
+
++ **[LwF]** Learning without Forgetting (ECCV 2016) [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)[[code]](https://github.com/lizhitwo/LearningWithoutForgetting)
+
