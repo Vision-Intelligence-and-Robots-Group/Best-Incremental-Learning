@@ -62,7 +62,7 @@ A collection of documents, papers, source code, and talks for incremental learni
 + **[TOPIC]** Few-shot Class Incremental Learning [[Link]](https://github.com/xyutao/fscil)
 + ...
 
-## 3 Paper
+## 3 Papers by Categories
 
 **Tips:** you can use ctrl+F to match abbreviations with articles, or browse the [paper list](#paper-list) below.
 
@@ -177,7 +177,7 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 
 
 
-# Paper List <span id='paper-list'></span>
+# Full Paper List <span id='paper-list'></span>
 
 ## 2022
 
