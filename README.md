@@ -59,7 +59,7 @@ A collection of documents, papers, source code, and talks for incremental learni
 
 ### 2.3 Settings
 
-+ **[TOPIC]** Few-shot Class Incremental Learning [[Link]](https://github.com/xyutao/fscil)![GitHub stars](https://img.shields.io/github/stars/xyutao/fscil.svg?logo=github&label=Stars)
++ **[FSCIL]** Few-shot Class Incremental Learning [[Link]](https://github.com/xyutao/fscil)![GitHub stars](https://img.shields.io/github/stars/xyutao/fscil.svg?logo=github&label=Stars)
 
 + ...
 
@@ -182,7 +182,7 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 
 ## 2022
 
-+ **[FACT]** Forward Compatible Few-Shot Class-Incremental Learning (CVPR 2022) [[paper]](https://arxiv.org/abs/2203.06953)[[code]](https://github.com/zhoudw-zdw/CVPR22-Fact)
++ **[FACT]** Forward Compatible Few-Shot Class-Incremental Learning (CVPR 2022) [[paper]](https://arxiv.org/abs/2203.06953)[[code]](https://github.com/zhoudw-zdw/CVPR22-Fact)![GitHub stars](https://img.shields.io/github/stars/zhoudw-zdw/CVPR22-Fact.svg?logo=github&label=Stars)
 + **[L2P]** Learning to Prompt for Continual Learning (CVPR 2022) [[paper]](https://arxiv.org/abs/2112.08654)[[code]](https://github.com/google-research/l2p)
 + **[MEAT]** Meta-attention for ViT-backed Continual Learning (CVPR 2022) [[paper]](https://arxiv.org/abs/2203.11684)[[code]](https://github.com/zju-vipa/MEAT-TIL)
 + **[DyTox]** DyTox: Transformers for Continual Learning with DYnamic TOken Expansion (CVPR 2022) [[paper]](https://arxiv.org/abs/2111.11326)
