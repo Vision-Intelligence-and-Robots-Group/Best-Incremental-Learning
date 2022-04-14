@@ -59,7 +59,7 @@ A collection of documents, papers, source code, and talks for incremental learni
 
 ### 2.3 Settings
 
-+ **[TOPIC]** Few-shot Class Incremental Learning [[Link]](https://github.com/xyutao/fscil)![GitHub stars](https://img.shields.io/github/stars/dimroc/count.svg?logo=github&label=Stars)
++ **[TOPIC]** Few-shot Class Incremental Learning [[Link]](https://github.com/xyutao/fscil)![GitHub stars](https://img.shields.io/github/stars/xyutao/fscil.svg?logo=github&label=Stars)
 
 + ...
 
