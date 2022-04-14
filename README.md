@@ -59,7 +59,7 @@ A collection of documents, papers, source code, and talks for incremental learni
 
 ### 2.3 Settings
 
-+ **[TOPIC]** Few-shot Class Incremental Learning [[Link]](https://github.com/xyutao/fscil)
++ **[TOPIC]** Few-shot Class Incremental Learning [[Link]](https://github.com/xyutao/fscil)<iframe src="https://ghbtns.com/github-btn.html?user=xyutao&repo=fscil&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
 + ...
 
 ## 3 Papers by Categories
