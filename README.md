@@ -84,7 +84,7 @@ A collection of documents, papers, source code, and talks for incremental learni
 
 + **[FSCIL]** Few-shot Class Incremental Learning [[Link]](https://github.com/xyutao/fscil)![GitHub stars](https://img.shields.io/github/stars/xyutao/fscil.svg?logo=github&label=Stars)
 
-+ ...![GitHub stars](https://img.shields.io/github/stars/xyutao/fscil.svg?logo=github&label=Stars)
++ ...
 
 ## 3 Papers by Categories
 
