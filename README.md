@@ -1,6 +1,6 @@
 # Best Incremental Learning
 
-A collection of documents, papers, source code, and talks for incremental learning.
+Incremental Learning Repository: A collection of documents, papers, source code, and talks for incremental learning.
 
 **Keywords:** Incremental Learning, Continual Learning, Continuous Learning, Lifelong Learning, Catastrophic Forgetting
 
