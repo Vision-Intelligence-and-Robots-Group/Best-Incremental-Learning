@@ -4,7 +4,15 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 **Keywords:** Incremental Learning, Continual Learning, Continuous Learning, Lifelong Learning, Catastrophic Forgetting
 
-## 1 Quick Start
+> **CATALOGUE**
+>
+> [Quick Start](#quick-start) :sparkles: [Survey](#survey) :sparkles: [Papers by Categories](#papers-by-categories) :sparkles: [Datasets](#datasets) :sparkles: [Tutorial, Workshop, & Talks](#workshop)
+>
+> [Competitions](#competitions) :sparkles: [Awecome Reference](#awecome-reference) :sparkles: [Contact Us](#contact-us)
+>
+> [Full Paper List](#paper-list) :sparkles: [Contributors](#contributors)
+
+## 1 Quick Start <span id='quick-start'></span>
 
 [Continual Learning | Papers With Code](https://paperswithcode.com/task/continual-learning)
 
@@ -26,7 +34,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 + PyCIL: A Python Toolbox for Class-Incremental Learning(arXiv 2021)[[paper]](https://arxiv.org/abs/2112.12533)[[code]](https://github.com/G-U-N/PyCIL)![GitHub stars](https://img.shields.io/github/stars/G-U-N/PyCIL.svg?logo=github&label=Stars)
 
-## 2  Survey
+## 2  Survey <span id='survey'></span>
 
 ### 2.1 Surveys
 
@@ -86,7 +94,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 + ...
 
-## 3 Papers by Categories
+## 3 Papers by Categories <span id='papers-by-categories'></span>
 
 **Tips:** you can use ctrl+F to match abbreviations with articles, or browse the [paper list](#paper-list) below.
 
@@ -104,10 +112,6 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 ### 3.2 From a Data Deployment Perspective
 
-**Online incremental learning**
-
-to be added...
-
 **Data decentralized incremental learning**
 
 + **[DCID]** Deep Class Incremental Learning from Decentralized Data(arXiv 2022)[[paper]](https://arxiv.org/abs/2203.05984)
@@ -116,9 +120,9 @@ to be added...
 
 **Data centralized incremental learning**
 
-All other studies aforementioned expect those already in the 'Online' and 'Decentralized' section.
+All other studies aforementioned expect those already in the 'Decentralized' section.
 
-## 4 Datasets
+## 4 Datasets <span id='datasets'></span>
 
 | datasets                                                     | describes                                                    |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -129,7 +133,7 @@ All other studies aforementioned expect those already in the 'Online' and 'Decen
 | [CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html)  | Both datasets contain 60,000 natural RGB images of the size 32 × 32, including 50,000 training and 10,000 test images. CIFAR10 has 10 classes, while CIFAR100 has 100 classes. |
 | [CORe50](https://vlomonaco.github.io/core50/)                | This dataset consists of 164,866 128×128 RGB-D images: 11 sessions × 50 objects × (around 300) frames per session. |
 
-## 5 Tutorial, Workshop, & Talks
+## 5 Tutorial, Workshop, & Talks <span id='workshop'></span>
 
 **VALSE Webinar**
 
@@ -177,7 +181,7 @@ Workshop](https://erodner.github.io/continuouslearningcvpr2017/)
 
 [A Non-profit Research Organization and Open Community on Continual Learning for AI](https://www.continualai.org/)
 
-## 6 Competitions
+## 6 Competitions <span id='competieions'></span>
 
 **ongoing**
 
@@ -191,11 +195,11 @@ Workshop](https://erodner.github.io/continuouslearningcvpr2017/)
 
 [1rd CLVISION CVPR Workshop Challenge 2020](https://sites.google.com/view/clvision2020/challenge)
 
-## 7 Awecome Reference
+## 7 Awecome Reference <span id='awesome-reference'></span>
 
 [1] https://github.com/xialeiliu/Awesome-Incremental-Learning
 
-## 8 Contact Us
+## 8 Contact Us <span id='contact-us'></span>
 
 Should there be any concerns on this page, please don't hesitate to let us know via [hongxiaopeng@ieee.org](mailto:hongxiaopeng@ieee.org) or [xl330@126.com](mailto:xl330@126.com).
 
@@ -446,7 +450,7 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 
 
 
-# Contributors
+# :gift_heart: Contributors <span id='contributors'></span>
 
-[<img src="pics/contributor_1.jfif"  width="80" />](https://github.com/pinna526)    [<img src="pics/contributor_2.jfif"  width="80" />](https://github.com/xiaopenghong)    [<img src="pics/contributor_3.jfif"  width="80" />](https://github.com/ZhihengCV)    [<img src="pics/contributor_4.jfif"  width="80" />](https://github.com/iamwangyabin)    [<img src="pics/contributor_5.jfif"  width="80" />](https://github.com/benmagnifico)    [<img src="pics/contributor_6.jfif"  width="80" />](https://github.com/zxxxxh)
+[<img src="pics/contributor_1.jfif"  width="80" />](https://github.com/pinna526)    [<img src="pics/contributor_2.jfif"  width="80" />](https://github.com/xiaopenghong)    [<img src="pics/contributor_3.jfif"  width="80" />](https://github.com/ZhihengCV)    [<img src="pics/contributor_4.jfif"  width="80" />](https://github.com/iamwangyabin)    [<img src="pics/contributor_5.jfif"  width="80" />](https://github.com/benmagnifico)    [<img src="pics/contributor_6.jfif"  width="80" />](https://github.com/zxxxxh)
 
