@@ -8,7 +8,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 >
 > [Quick Start](#quick-start) :sparkles: [Survey](#survey) :sparkles: [Papers by Categories](#papers-by-categories) :sparkles: [Datasets](#datasets) :sparkles: [Tutorial, Workshop, & Talks](#workshop)
 >
-> [Competitions](#competitions) :sparkles: [Awecome Reference](#awecome-reference) :sparkles: [Contact Us](#contact-us)
+> [Competitions](#competitions) :sparkles: [Awecome Reference](#awesome-reference) :sparkles: [Contact Us](#contact-us)
 >
 > [Full Paper List](#paper-list) :sparkles: [Contributors](#contributors)
 
@@ -122,7 +122,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 **Data centralized incremental learning**
 
-All other studies aforementioned expect those already in the 'Decentralized' section.
+All other studies aforementioned except those already in the 'Decentralized' section.
 
 ## 4 Datasets <span id='datasets'></span>
 
@@ -183,7 +183,7 @@ Workshop](https://erodner.github.io/continuouslearningcvpr2017/)
 
 [A Non-profit Research Organization and Open Community on Continual Learning for AI](https://www.continualai.org/)
 
-## 6 Competitions <span id='competieions'></span>
+## 6 Competitions <span id='competitions'></span>
 
 **ongoing**
 
