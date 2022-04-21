@@ -10,7 +10,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 >
 > [Competitions](#competitions) :sparkles: [Awecome Reference](#awecome-reference) :sparkles: [Contact Us](#contact-us)
 >
-> [Full Paper List](#paper-list) :sparkles: [Contributors](#contributors)
+> [Full Paper List](#paper-list) :sparkles: [Contributors](#contributors)
 
 ## 1 Quick Start <span id='quick-start'></span>
 
@@ -63,6 +63,8 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 ### 2.2 Analysis & Study
 
 + **[BN Tricks]** Diagnosing Batch Normalization in Class Incremental Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2202.08025)
+
++ Architecture Matters in Continual Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2202.00275)
 
 + Probing Representation Forgetting in Supervised and Unsupervised Continual Learning (CVPR 2022) [[paper]](https://arxiv.org/abs/2203.13381)
 
