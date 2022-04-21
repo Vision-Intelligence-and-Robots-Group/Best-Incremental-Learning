@@ -8,9 +8,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 >
 > [Quick Start](#quick-start) :sparkles: [Survey](#survey) :sparkles: [Papers by Categories](#papers-by-categories) :sparkles: [Datasets](#datasets) :sparkles: [Tutorial, Workshop, & Talks](#workshop)
 >
-> [Competitions](#competitions) :sparkles: [Awecome Reference](#awesome-reference) :sparkles: [Contact Us](#contact-us)
->
-> [Full Paper List](#paper-list) :sparkles: [Contributors](#contributors)
+> [Competitions](#competitions) :sparkles: [Awecome Reference](#awesome-reference) :sparkles: [Full Paper List](#paper-list) :sparkles: 
 
 ## 1 Quick Start <span id='quick-start'></span>
 
