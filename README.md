@@ -452,5 +452,5 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 
 # :gift_heart: Contributors <span id='contributors'></span>
 
-[<img src="pics/contributor_1.jfif"  width="80" />](https://github.com/pinna526)    [<img src="pics/contributor_2.jfif"  width="80" />](https://github.com/xiaopenghong)    [<img src="pics/contributor_3.jfif"  width="80" />](https://github.com/ZhihengCV)    [<img src="pics/contributor_4.jfif"  width="80" />](https://github.com/iamwangyabin)    [<img src="pics/contributor_5.jfif"  width="80" />](https://github.com/benmagnifico)    [<img src="pics/contributor_6.jfif"  width="80" />](https://github.com/zxxxxh)
+[<img src="pics/contributor_1.jfif"  width="80" />](https://github.com/pinna526)    [<img src="pics/contributor_2.jfif"  width="80" />](https://github.com/xiaopenghong)    [<img src="pics/contributor_4.jfif"  width="80" />](https://github.com/iamwangyabin)    [<img src="pics/contributor_3.jfif"  width="80" />](https://github.com/ZhihengCV)    [<img src="pics/contributor_5.jfif"  width="80" />](https://github.com/benmagnifico)    [<img src="pics/contributor_6.jfif"  width="80" />](https://github.com/zxxxxh)
 
