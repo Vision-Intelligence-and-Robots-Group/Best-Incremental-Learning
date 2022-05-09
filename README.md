@@ -136,6 +136,7 @@ All other studies aforementioned except those already in the 'Decentralized' sec
 ## 5 Lecture, Tutorial, Workshop, & Talks
 
 **Continual AI Lecture Series**
+
 [__Open World Lifelong Learning Course__ Lecture #1: Introduction and Motivation by Martin Mundt, May 3, 2022](https://www.youtube.com/watch?v=pB0ynaYZVaU&t=44s)
 
 **VALSE Webinar**
