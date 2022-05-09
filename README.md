@@ -139,7 +139,7 @@ All other studies aforementioned except those already in the 'Decentralized' sec
 
 [__Open World Lifelong Learning Course__ Lecture #1: Introduction and Motivation by Martin Mundt, May 3, 2022](https://www.youtube.com/watch?v=pB0ynaYZVaU&t=44s)
 
-**VALSE Webinar**
+**VALSE Webinar** (In Chinese)
 
 [20211215【学无止境：深度连续学习】洪晓鹏：记忆拓扑保持的深度增量学习方法](https://www.bilibili.com/video/BV1Qi4y197uf?spm_id_from=333.999.0.0)
 
