@@ -133,7 +133,10 @@ All other studies aforementioned except those already in the 'Decentralized' sec
 | [CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html)  | Both datasets contain 60,000 natural RGB images of the size 32 × 32, including 50,000 training and 10,000 test images. CIFAR10 has 10 classes, while CIFAR100 has 100 classes. |
 | [CORe50](https://vlomonaco.github.io/core50/)                | This dataset consists of 164,866 128×128 RGB-D images: 11 sessions × 50 objects × (around 300) frames per session. |
 
-## 5 Tutorial, Workshop, & Talks <span id='workshop'></span>
+## 5 Lecture, Tutorial, Workshop, & Talks
+
+**Continual AI Lecture Series**
+[__Open World Lifelong Learning Course__ Lecture #1: Introduction and Motivation by Martin Mundt, May 3, 2022](https://www.youtube.com/watch?v=pB0ynaYZVaU&t=44s)
 
 **VALSE Webinar**
 
