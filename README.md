@@ -60,6 +60,8 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 ### 2.2 Analysis & Study
 
++ **[CDDB]** A Continual Deepfake Detection Benchmark: Dataset, Methods, and Essentials(arXiv 2022)[[paper]](https://arxiv.org/abs/2205.05467)
+
 + **[BN Tricks]** Diagnosing Batch Normalization in Class Incremental Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2202.08025)
 
 + Architecture Matters in Continual Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2202.00275)
