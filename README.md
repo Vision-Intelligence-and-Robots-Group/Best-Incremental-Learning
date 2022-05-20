@@ -28,9 +28,10 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 + Catastrophic Interference in Connectionist Networks: The Sequential Learning Problem(1989)[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0079742108605368)
 
-**Toolbox**
+**Toolbox & Framework**
 
 + PyCIL: A Python Toolbox for Class-Incremental Learning(arXiv 2021)[[paper]](https://arxiv.org/abs/2112.12533)[[code]](https://github.com/G-U-N/PyCIL)![GitHub stars](https://img.shields.io/github/stars/G-U-N/PyCIL.svg?logo=github&label=Stars)
++ **[Mammoth]** An Extendible (General) Continual Learning Framework for Pytorch [[code]](https://github.com/aimagelab/mammoth)![GitHub stars](https://img.shields.io/github/stars/aimagelab/mammoth.svg?logo=github&label=Stars)
 
 ## 2  Survey <span id='survey'></span>
 
