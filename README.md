@@ -61,6 +61,8 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 ### 2.2 Analysis & Study
 
++ **[OpenLORIS-Object]** Towards Lifelong Object Recognition: A Dataset and Benchmark(Pattern Recognit 2022)[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320322003004)
+
 + **[CDDB]** A Continual Deepfake Detection Benchmark: Dataset, Methods, and Essentials(arXiv 2022)[[paper]](https://arxiv.org/abs/2205.05467)
 
 + **[BN Tricks]** Diagnosing Batch Normalization in Class Incremental Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2202.08025)
@@ -135,6 +137,9 @@ All other studies aforementioned except those already in the 'Decentralized' sec
 | [SubImageNet](https://openaccess.thecvf.com/content_CVPR_2019/html/Hou_Learning_a_Unified_Classifier_Incrementally_via_Rebalancing_CVPR_2019_paper.html) | This dataset is a 100-class subset of ImageNet's **random sample**, which contains approximately 130,000 images for training and 5,000 images for testing. |
 | [CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html)  | Both datasets contain 60,000 natural RGB images of the size 32 × 32, including 50,000 training and 10,000 test images. CIFAR10 has 10 classes, while CIFAR100 has 100 classes. |
 | [CORe50](https://vlomonaco.github.io/core50/)                | This dataset consists of 164,866 128×128 RGB-D images: 11 sessions × 50 objects × (around 300) frames per session.<br />[Github](https://github.com/vlomonaco/core50)<br />[CORe50: a New Dataset and Benchmark for Continuous Object Recognition](http://proceedings.mlr.press/v78/lomonaco17a.html)<br /> |
+| [OpenLORIS-Object](https://www.sciencedirect.com/science/article/pii/S0031320322003004?via%3Dihub) | This is the first real-world dataset for robotic vision with independent and quantifiable environmental factors, compared with other lifelong learning datasets, with 186 instances, 63 categories and 2,138,050 images. |
+
+
 
 ## 5 Lecture, Tutorial, Workshop, & Talks
 
