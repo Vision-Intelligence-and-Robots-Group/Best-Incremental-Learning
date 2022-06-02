@@ -143,17 +143,9 @@ All other studies aforementioned except those already in the 'Decentralized' sec
 
 ## 5 Lecture, Tutorial, Workshop, & Talks
 
-**Continual AI Lecture Series**
+**Continual AI Lecture**
 
-[__Open World Lifelong Learning Course__ Lecture #5: Active learning - querying future data](https://www.youtube.com/watch?v=yXQECPdgFLg) 
-
-[__Open World Lifelong Learning Course__ Lecture #4: Rehearsal - knowledge retention/forgetting](https://www.youtube.com/watch?v=g3rd4Jh15Ss) 
-
-[__Open World Lifelong Learning Course__ Lecture #3: knowledge retention, optimization & forgetting](https://www.youtube.com/watch?v=NEOQKidoJUo) 
-
-[__Open World Lifelong Learning Course__ Lecture #2: knowledge transfer, adaptation, continual learning](https://www.youtube.com/watch?v=DEMtz-MuHIs)
-
-[__Open World Lifelong Learning Course__ Lecture #1: Introduction and Motivation by Martin Mundt](https://www.youtube.com/watch?v=pB0ynaYZVaU&t=44s)
+[Open World Lifelong Learning | A Continual Machine Learning Course](http://owll-lab.com/teaching/cl_lecture/)
 
 **VALSE Webinar** (In Chinese)
 
