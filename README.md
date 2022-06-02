@@ -149,7 +149,7 @@ All other studies aforementioned except those already in the 'Decentralized' sec
 
 [__Open World Lifelong Learning Course__ Lecture #4: Rehearsal - knowledge retention/forgetting](https://www.youtube.com/watch?v=g3rd4Jh15Ss) 
 
-[__Open World Lifelong Learning Course__ Lecture #3: knowledge retention, optimization & forgetting](MuHIshttps://www.youtube.com/watch?v=NEOQKidoJUo) 
+[__Open World Lifelong Learning Course__ Lecture #3: knowledge retention, optimization & forgetting](https://www.youtube.com/watch?v=NEOQKidoJUo) 
 
 [__Open World Lifelong Learning Course__ Lecture #2: knowledge transfer, adaptation, continual learning](https://www.youtube.com/watch?v=DEMtz-MuHIs)
 
