@@ -30,6 +30,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 **Toolbox & Framework**
 
++ **[Avalanche]** Avalanche: An End-to-End Library for Continual Learning(CVPR 2021)[[paper]](https://openaccess.thecvf.com/content/CVPR2021W/CLVision/html/Lomonaco_Avalanche_An_End-to-End_Library_for_Continual_Learning_CVPRW_2021_paper.html)[[code]](https://github.com/ContinualAI/avalanche)![GitHub stars](https://img.shields.io/github/stars/ContinualAI/avalanche.svg?logo=github&label=Stars)
 + **[PyCIL]** PyCIL: A Python Toolbox for Class-Incremental Learning(arXiv 2021)[[paper]](https://arxiv.org/abs/2112.12533)[[code]](https://github.com/G-U-N/PyCIL)![GitHub stars](https://img.shields.io/github/stars/G-U-N/PyCIL.svg?logo=github&label=Stars)
 + **[Mammoth]** An Extendible (General) Continual Learning Framework for Pytorch [[code]](https://github.com/aimagelab/mammoth)![GitHub stars](https://img.shields.io/github/stars/aimagelab/mammoth.svg?logo=github&label=Stars)
 
