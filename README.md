@@ -8,7 +8,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 >
 > [Quick Start](#quick-start) :sparkles: [Survey](#survey) :sparkles: [Papers by Categories](#papers-by-categories) :sparkles: [Datasets](#datasets) :sparkles: [Tutorial, Workshop, & Talks](#workshop)
 >
-> [Competitions](#competitions) :sparkles: [Awecome Reference](#awesome-reference) :sparkles: [Full Paper List](#paper-list) 
+> [Competitions](#competitions) :sparkles: [Awesome Reference](#awesome-reference) :sparkles: [Full Paper List](#paper-list) 
 
 ## 1 Quick Start <span id='quick-start'></span>
 
@@ -63,6 +63,8 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 + Continual lifelong learning with neural networks: A review(arXiv 2019)[[paper]](https://arxiv.org/abs/1802.07569)
 
 ### 2.2 Analysis & Study
+
++ Probing Representation Forgetting in Supervised and Unsupervised Continual Learning(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Davari_Probing_Representation_Forgetting_in_Supervised_and_Unsupervised_Continual_Learning_CVPR_2022_paper.html)[[code]](https://github.com/rezazzr/Probing-Representation-Forgetting)![GitHub stars](https://img.shields.io/github/stars/rezazzr/Probing-Representation-Forgetting.svg?logo=github&label=Stars)
 
 + **[OpenLORIS-Object]** Towards Lifelong Object Recognition: A Dataset and Benchmark(Pattern Recognit 2022)[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320322003004)
 
@@ -210,7 +212,7 @@ Workshop](https://erodner.github.io/continuouslearningcvpr2017/)
 
 [1rd CLVISION CVPR Workshop Challenge 2020](https://sites.google.com/view/clvision2020/challenge)
 
-## 7 Awecome Reference <span id='awesome-reference'></span>
+## 7 Awesome Reference <span id='awesome-reference'></span>
 
 [1] https://github.com/xialeiliu/Awesome-Incremental-Learning
 
