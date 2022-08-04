@@ -36,6 +36,10 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 + **[Mammoth]** An Extendible (General) Continual Learning Framework for Pytorch [[code]](https://github.com/aimagelab/mammoth)![GitHub stars](https://img.shields.io/github/stars/aimagelab/mammoth.svg?logo=github&label=Stars)
 
+**Books**
+
++ Lifelong Machine Learning [[Link]](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html)
+
 ## 2  Survey <span id='survey'></span>
 
 ### 2.1 Surveys
@@ -147,7 +151,7 @@ All other studies aforementioned except those already in the 'Decentralized' sec
 
 
 
-## 5 Lecture, Tutorial, Workshop, & Talks
+## 5 Lecture, Tutorial, Workshop, & Talks<span id='workshop'></span>
 
 **Continual AI Lecture**
 
@@ -201,13 +205,11 @@ Workshop](https://erodner.github.io/continuouslearningcvpr2017/)
 
 ## 6 Competitions <span id='competitions'></span>
 
-**ongoing**
+**achieved**
 
 [3rd CLVISION CVPR Workshop Challenge 2022](https://sites.google.com/view/clvision2022/challenge)
 
 [IJCAI 2021 - International Workshop on Continual Semi-Supervised Learning](https://sites.google.com/view/sscl-workshop-ijcai-2021/)
-
-**achieved**
 
 [2rd CLVISION CVPR Workshop Challenge 2021](https://eval.ai/web/challenges/challenge-page/829/overview)
 
