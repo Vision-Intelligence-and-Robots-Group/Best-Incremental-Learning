@@ -276,7 +276,7 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 + **[DCR]** General Incremental Learning with Domain-aware Categorical Representations(CVPR 2022)[[paper]](https://arxiv.org/abs/2204.0407)
 + **[DIY-FSCIL]** Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.1484)
 + **[C-FSCIL]** Constrained Few-shot Class-incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.16588)[[code]](https://github.com/IBM/constrained-FSCIL)![GitHub stars](https://img.shields.io/github/stars/IBM/constrained-FSCIL.svg?logo=github&label=Stars)
-+ **[NECIL]** Self-Sustaining Representation Expansion for Non-Exemplar Class-Incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.0635)
++ **[NECIL]** Self-Sustaining Representation Expansion for Non-Exemplar Class-Incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.06359)
 + **[CwD]** Mimicking the Oracle: An Initial Phase Decorrelation Approach for Class Incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2112.04731)[[code]](https://github.com/Yujun-Shi/CwD)![GitHub stars](https://img.shields.io/github/stars/Yujun-Shi/CwD.svg?logo=github&label=Stars)
 + **[MSL]** On Generalizing Beyond Domains in Cross-Domain Continual Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.0397)
 + **[MBP]** Model Behavior Preserving for Class-Incremental Learning(TNNLS 2022)[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=970512)
