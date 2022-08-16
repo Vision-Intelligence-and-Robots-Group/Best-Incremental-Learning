@@ -203,6 +203,10 @@ Workshop](https://erodner.github.io/continuouslearningcvpr2017/)
 
 [A Non-profit Research Organization and Open Community on Continual Learning for AI](https://www.continualai.org/)
 
+**CoLLAs**
+
+[Conference on Lifelong Learning Agents - CoLLAs 2022](https://lifelong-ml.cc/)
+
 ## 6 Competitions <span id='competitions'></span>
 
 **achieved**
