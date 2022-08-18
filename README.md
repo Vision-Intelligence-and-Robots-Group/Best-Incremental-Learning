@@ -306,6 +306,20 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 + **[EMP]** Incremental Prompting: Episodic Memory Prompt for Lifelong Event Detection(arXiv 2022)[[paper]](https://arxiv.org/abs/2204.07275)
 
 
+
++ **[DLCFT]** DLCFT: Deep Linear Continual Fine-Tuning for General Incremental Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2208.08112)
+
+- **[CSCCT]** Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer(ECCV2022)[[paper]](https://arxiv.org/abs/2208.03767)[[code]](https://github.com/ashok-arjun/CSCCT)
+- **[NCDwF]** Novel Class Discovery without Forgetting(ECCV2022)[[paper]](https://arxiv.org/abs/2207.10659)
+- Few-Shot Class Incremental Learning From an Open-Set Perspective(ECCV2022)[[paper]](https://arxiv.org/pdf/2208.00147.pdf)
+- Incremental Task Learning with Incremental Rank Updates(ECCV2022)[[paper]](https://arxiv.org/pdf/2207.09074.pdf)
+- Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay(ECCV2022)[[paper]](https://arxiv.org/pdf/2207.11213.pdf)
+- Online Continual Learning with Contrastive Vision Transformer(ECCV2022)[[paper]](https://arxiv.org/pdf/2207.13516.pdf)
+- Transfer without Forgetting(ECCV2022)[[paper]](https://arxiv.org/abs/2206.00388)[[code]](https://github.com/mbosc/twf)
+- Continual Semi-Supervised Learning through Contrastive Interpolation Consistency(PRL 2022)[[paper]](https://arxiv.org/abs/2108.06552)[[code]](https://github.com/loribonna/CSSL)
+- Modelling continual learning in humans with Hebbian context gating and exponentially decaying task signals(arXiv 2022)[[paper]](
+
+
  ## 2021
 
 + **[Meta-DR]** Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning(CVPR 2021)[[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Volpi_Continual_Adaptation_of_Visual_Representations_via_Domain_Randomization_and_Meta-Learning_CVPR_2021_paper.html)
