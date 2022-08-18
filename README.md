@@ -68,6 +68,8 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 ### 2.2 Analysis & Study
 
++ Biological underpinnings for lifelong learning machines(Nat. Mach. Intell. 2022)[[paper]](https://www.nature.com/articles/s42256-022-00452-0)
+
 + Probing Representation Forgetting in Supervised and Unsupervised Continual Learning(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Davari_Probing_Representation_Forgetting_in_Supervised_and_Unsupervised_Continual_Learning_CVPR_2022_paper.html)[[code]](https://github.com/rezazzr/Probing-Representation-Forgetting)![GitHub stars](https://img.shields.io/github/stars/rezazzr/Probing-Representation-Forgetting.svg?logo=github&label=Stars)
 
 + **[OpenLORIS-Object]** Towards Lifelong Object Recognition: A Dataset and Benchmark(Pattern Recognit 2022)[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320322003004)
