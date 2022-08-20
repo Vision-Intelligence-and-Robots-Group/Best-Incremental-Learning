@@ -155,6 +155,16 @@ All other studies aforementioned except those already in the 'Decentralized' sec
 
 ## 5 Lecture, Tutorial, Workshop, & Talks<span id='workshop'></span>
 
+**Life-Long learning | 李宏毅**
+
+Life-long Learning: [[ppt]](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/life_v2.pptx) [[pdf]](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/life_v2.pdf)
+
+Catastrophic Forgetting [[Chinese]](https://youtu.be/rWF9sg5w6Zk) [[English]](https://youtu.be/yAX8Ydfek_I)
+
+Mitigating Catastrophic Forgetting [[Chinese]](https://youtu.be/Y9Jay_vxOsM) [[English]](https://youtu.be/-2r4cqDP4BY)
+
+Meta Learning : Learn to Learn [[Chinese]](https://www.youtube.com/watch?v=xoastiYx9JU)
+
 **Continual AI Lecture**
 
 [Open World Lifelong Learning | A Continual Machine Learning Course](http://owll-lab.com/teaching/cl_lecture/)
