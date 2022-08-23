@@ -30,7 +30,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 **Toolbox & Framework**
 
-+ **[FACIL]**Class-incremental learning: survey and performance evaluation on image classification(arXiv 2022)[[paper]](https://arxiv.org/abs/2010.15277)[[code]](https://github.com/mmasana/FACIL)![GitHub stars](https://img.shields.io/github/stars/mmasana/FACIL.svg?logo=github&label=Stars)
++ **[FACIL]** Class-incremental learning: survey and performance evaluation on image classification(arXiv 2022)[[paper]](https://arxiv.org/abs/2010.15277)[[code]](https://github.com/mmasana/FACIL)![GitHub stars](https://img.shields.io/github/stars/mmasana/FACIL.svg?logo=github&label=Stars)
 
 + **[Avalanche]** Avalanche: An End-to-End Library for Continual Learning(CVPR 2021)[[paper]](https://openaccess.thecvf.com/content/CVPR2021W/CLVision/html/Lomonaco_Avalanche_An_End-to-End_Library_for_Continual_Learning_CVPRW_2021_paper.html)[[code]](https://github.com/ContinualAI/avalanche)![GitHub stars](https://img.shields.io/github/stars/ContinualAI/avalanche.svg?logo=github&label=Stars)
 
@@ -45,6 +45,8 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 ## 2  Survey <span id='survey'></span>
 
 ### 2.1 Surveys
+
++ **[FACIL]** Class-incremental learning: survey and performance evaluation on image classification(arXiv 2022)[[paper]](https://arxiv.org/abs/2010.15277)[[code]](https://github.com/mmasana/FACIL)![GitHub stars](https://img.shields.io/github/stars/mmasana/FACIL.svg?logo=github&label=Stars)
 
 + Online Continual Learning in Image Classification: An Empirical Survey (Neurocomputing 2021)[[paper]](https://arxiv.org/abs/2101.10423)
 
