@@ -78,12 +78,6 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 + **[OpenLORIS-Object]** Towards Lifelong Object Recognition: A Dataset and Benchmark(Pattern Recognit 2022)[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320322003004)
 
-+ **[CDDB]** A Continual Deepfake Detection Benchmark: Dataset, Methods, and Essentials(arXiv 2022)[[paper]](https://arxiv.org/abs/2205.05467)
-
-+ **[BN Tricks]** Diagnosing Batch Normalization in Class Incremental Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2202.08025)
-
-+ Architecture Matters in Continual Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2202.00275)
-
 + Probing Representation Forgetting in Supervised and Unsupervised Continual Learning (CVPR 2022) [[paper]](https://arxiv.org/abs/2203.13381)
 
 + Learngene: From Open-World to Your Learning Task (AAAI 2022) [[paper]](https://arxiv.org/pdf/2106.06788.pdf)
@@ -99,6 +93,14 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 + Pretrained Language Model in Continual Learning: A Comparative Study (ICLR 2022) [[paper]](https://openreview.net/pdf?id=figzpGMrdD)
 
 + Effect of scale on catastrophic forgetting in neural networks (ICLR 2022) [[paper]](https://openreview.net/pdf?id=GhVS8_yPeEa)
+
++ LifeLonger: A Benchmark for Continual Disease Classification(arXiv 2022)[[paper]](https://arxiv.org/abs/2204.05737)
+
++ **[CDDB]** A Continual Deepfake Detection Benchmark: Dataset, Methods, and Essentials(arXiv 2022)[[paper]](https://arxiv.org/abs/2205.05467)
+
++ **[BN Tricks]** Diagnosing Batch Normalization in Class Incremental Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2202.08025)
+
++ Architecture Matters in Continual Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2202.00275)
 
 + Learning where to learn: Gradient sparsity in meta and continual learning(NeurIPS 2021) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/2a10665525774fa2501c2c8c4985ce61-Abstract.html)
 
