@@ -38,6 +38,8 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 + **[Mammoth]** An Extendible (General) Continual Learning Framework for Pytorch [[code]](https://github.com/aimagelab/mammoth)![GitHub stars](https://img.shields.io/github/stars/aimagelab/mammoth.svg?logo=github&label=Stars)
 
++ **[PyContinual]** An Easy and Extendible Framework for Continual Learning[[code]](https://github.com/ZixuanKe/PyContinual)![GitHub stars](https://img.shields.io/github/stars/ZixuanKe/PyContinual.svg?logo=github&label=Stars)
+
 **Books**
 
 + Lifelong Machine Learning [[Link]](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html)
