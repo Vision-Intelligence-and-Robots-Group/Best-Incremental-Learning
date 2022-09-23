@@ -161,13 +161,7 @@ All other studies aforementioned except those already in the 'Decentralized' sec
 
 
 
-## 5 Lecture, Tutorial, Workshop, & Talks<span id='workshop'></span>
-
-**【Seminar Advance Notice】**
-
-**Date**: 9-22-2022  15:30 PM UTC
-
-[Prompting-based Continual Learning | Continual AI](https://www.youtube.com/watch?v=19bylhGhfAw)
+## 5 Lecture, Tutorial, Workshop, & Talks<span id='workshop'>
 
 **Life-Long learning | 李宏毅**
 
@@ -182,6 +176,8 @@ Meta Learning : Learn to Learn [[Chinese]](https://www.youtube.com/watch?v=xoast
 **Continual AI Lecture**
 
 [Open World Lifelong Learning | A Continual Machine Learning Course](http://owll-lab.com/teaching/cl_lecture/)
+
+[Prompting-based Continual Learning | Continual AI](https://www.youtube.com/watch?v=19bylhGhfAw)
 
 **VALSE Webinar** (In Chinese)
 
