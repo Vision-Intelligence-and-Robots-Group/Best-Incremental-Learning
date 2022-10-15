@@ -255,7 +255,7 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 
  ## 2022
 
-+ **[S-Prompt]** S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning (NeurIPS 2022)[[paper]](https://arxiv.org/abs/2207.12819)
++ **[S-Prompts]** S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning (NeurIPS 2022)[[paper]](https://arxiv.org/abs/2207.12819)
 + **[ELI]** Energy-Based Latent Aligner for Incremental Learning (CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Joseph_Energy-Based_Latent_Aligner_for_Incremental_Learning_CVPR_2022_paper.html)
 + **[CASSLE]** Self-Supervised Models Are Continual Learners (CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Fini_Self-Supervised_Models_Are_Continual_Learners_CVPR_2022_paper.html)[[code]](https://github.com/DonkeyShot21/cassle)![GitHub stars](https://img.shields.io/github/stars/DonkeyShot21/cassle.svg?logo=github&label=Stars)
 + **[iFS-RCNN]** iFS-RCNN: An Incremental Few-Shot Instance Segmenter(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Nguyen_iFS-RCNN_An_Incremental_Few-Shot_Instance_Segmenter_CVPR_2022_paper.html)
