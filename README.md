@@ -139,7 +139,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 **Data decentralized incremental learning**
 
-+ **[DCID]** Deep Class Incremental Learning from Decentralized Data(TNNLS 2022)[[paper]](https://arxiv.org/abs/2203.05984)[[code]](https://github.com/Vision-Intelligence-and-Robots-Group/DCIL)
++ **[DCID]** Deep Class Incremental Learning from Decentralized Data(TNNLS 2022)[[paper]](https://ieeexplore.ieee.org/document/9932643)[[code]](https://github.com/Vision-Intelligence-and-Robots-Group/DCIL)
 + **[GLFC]** Federated Class-Incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.11473)[[code]](https://github.com/conditionWang/FCIL)
 + **[FedWeIT]** Federated Continual Learning with Weighted Inter-client Transfer(ICML 2021)[[paper]](https://proceedings.mlr.press/v139/yoon21b.html)[[code]](https://github.com/wyjeong/FedWeIT)
 
