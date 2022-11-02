@@ -116,7 +116,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 + **[FSCIL]** Few-shot Class Incremental Learning [[Link]](https://github.com/xyutao/fscil)![GitHub stars](https://img.shields.io/github/stars/xyutao/fscil.svg?logo=github&label=Stars)
 
-+ ...
++ **[DCIL]**.  Decentralized Class Incremental Learning [[paper]](https://ieeexplore.ieee.org/document/9932643)[[Setting]](https://github.com/Vision-Intelligence-and-Robots-Group/DCIL)..
 
 ## 3 Papers by Categories <span id='papers-by-categories'></span>
 
