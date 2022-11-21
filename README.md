@@ -30,6 +30,8 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 **Toolbox & Framework**
 
++ A simple but strong baseline for online continual learning: Repeated Augmented Rehearsal(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2209.13917)[[code]](https://github.com/YaqianZhang/RepeatedAugmentedRehearsal)![GitHub stars](https://img.shields.io/github/stars/YaqianZhang/RepeatedAugmentedRehearsal)
+
 + **[FACIL]** Class-incremental learning: survey and performance evaluation on image classification(TPAMI 2022)[[paper]](https://arxiv.org/abs/2010.15277)[[code]](https://github.com/mmasana/FACIL)![GitHub stars](https://img.shields.io/github/stars/mmasana/FACIL.svg?logo=github&label=Stars)
 
 + **[Avalanche]** Avalanche: An End-to-End Library for Continual Learning(CVPR 2021)[[paper]](https://openaccess.thecvf.com/content/CVPR2021W/CLVision/html/Lomonaco_Avalanche_An_End-to-End_Library_for_Continual_Learning_CVPRW_2021_paper.html)[[code]](https://github.com/ContinualAI/avalanche)![GitHub stars](https://img.shields.io/github/stars/ContinualAI/avalanche.svg?logo=github&label=Stars)
@@ -73,6 +75,10 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 + Continual lifelong learning with neural networks: A review(arXiv 2019)[[paper]](https://arxiv.org/abs/1802.07569)
 
 ### 2.2 Analysis & Study
+
++ Continual learning: a feature extraction formalization, an efficient algorithm, and fundamental obstructions(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2203.14383)
+
++ Exploring Example Influence in Continual Learning(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2209.12241)
 
 + Biological underpinnings for lifelong learning machines(Nat. Mach. Intell. 2022)[[paper]](https://www.nature.com/articles/s42256-022-00452-0)
 
