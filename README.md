@@ -326,7 +326,13 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 + **[CwD]** Mimicking the Oracle: An Initial Phase Decorrelation Approach for Class Incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2112.04731)[[code]](https://github.com/Yujun-Shi/CwD)![GitHub stars](https://img.shields.io/github/stars/Yujun-Shi/CwD.svg?logo=github&label=Stars)
 + **[MSL]** On Generalizing Beyond Domains in Cross-Domain Continual Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.03970)
 + **[DyTox]** DyTox: Transformers for Continual Learning with DYnamic TOken Expansion(CVPR 2022)[[paper]](https://arxiv.org/abs/2111.11326)[[code]](https://github.com/arthurdouillard/dytox)![GitHub stars](https://img.shields.io/github/stars/arthurdouillard/dytox.svg?logo=github&label=Stars)
-+ **[MBP]** Model Behavior Preserving for Class-Incremental Learning(TNNLS 2022)[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9705128)
++ [x] **[MBP]** Model Behavior Preserving for Class-Incremental Learning(TNNLS 2022)[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9705128)
+
++ **[X-DER]** Class-Incremental Continual Learning into the eXtended DER-vers(ECCV 2022)[[paper]](https://arxiv.org/abs/2201.00766)
++ **[clsss-iNCD]** Class-incremental Novel Class Discovery(ECCV 2022)[[paper]](https://arxiv.org/abs/2207.08605)[[code]](https://github.com/OatmealLiu/class-iNCD)![GitHub stars](https://img.shields.io/github/stars/OatmealLiu/class-iNCD.svg?logo=github&label=Stars)
++ **[ARI]** Anti-Retroactive Interference for Lifelong Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2208.12967)[[code]](https://github.com/bhrqw/ARI)![GitHub stars](https://img.shields.io/github/stars/bhrqw/ARI.svg?logo=github&label=Stars)
++ **[Long-Tailed-CIL]** Long-Tailed Class Incremental Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2210.00266)[[code]](https://github.com/xialeiliu/Long-Tailed-CIL)![GitHub stars](https://img.shields.io/github/stars/xialeiliu/Long-Tailed-CIL.svg?logo=github&label=Stars)
+
 + **[ERDR]** Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay(ECCV2022)[[paper]](https://arxiv.org/pdf/2207.11213.pdf)
 + **[CVT]** Online Continual Learning with Contrastive Vision Transformer(ECCV 2022)[[paper]](https://arxiv.org/pdf/2207.13516.pdf)
 + **[TwF]** Transfer without Forgetting(ECCV 2022)[[paper]](https://arxiv.org/abs/2206.00388)[[code]](https://github.com/mbosc/twf)![GitHub stars](https://img.shields.io/github/stars/mbosc/twf.svg?logo=github&label=Stars)
