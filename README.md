@@ -264,226 +264,223 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 
 ## 2023
 
-+ **[ESN]**Isolation and Impartial Aggregation: A Paradigm of Incremental Learning without Interference(AAAI 2023)[[paper]](https://arxiv.org/abs/2211.15969)[[code]](https://github.com/iamwangyabin/ESN)![GitHub stars](https://img.shields.io/github/stars/iamwangyabin/ESN.svg?logo=github&label=Stars)
++ **[ESN]** Isolation and Impartial Aggregation: A Paradigm of Incremental Learning without Interference(AAAI 2023)[[paper]](https://arxiv.org/abs/2211.15969)[[code]](https://github.com/iamwangyabin/ESN)![GitHub stars](https://img.shields.io/github/stars/iamwangyabin/ESN.svg?logo=github&label=Stars)
 
-+ **[FeTrIL]**Feature Translation for Exemplar-Free Class-Incremental Learning(WACV 2023)[[paper]](https://arxiv.org/abs/2211.13131)[[code]](https://github.com/GregoirePetit/FeTrIL)![GitHub stars](https://img.shields.io/github/stars/GregoirePetit/FeTrIL.svg?logo=github&label=Stars)
++ **[FeTrIL]** Feature Translation for Exemplar-Free Class-Incremental Learning(WACV 2023)[[paper]](https://arxiv.org/abs/2211.13131)[[code]](https://github.com/GregoirePetit/FeTrIL)![GitHub stars](https://img.shields.io/github/stars/GregoirePetit/FeTrIL.svg?logo=github&label=Stars)
 
  ## 2022
 
-+ **[RD-IOD]**RD-IOD: Two-Level Residual-Distillation-Based Triple-Network for Incremental Object Detection(ACM Trans 2022)[[paper]](https://dl.acm.org/doi/abs/10.1145/3472393)
++ **[RD-IOD]** RD-IOD: Two-Level Residual-Distillation-Based Triple-Network for Incremental Object Detection(ACM Trans 2022)[[paper]](https://dl.acm.org/doi/abs/10.1145/3472393)
 
-+ **[NCM]**Exemplar-free Online Continual Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2202.05491)
++ **[NCM]** Exemplar-free Online Continual Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2202.05491)
 
-+ **[IPP]**Incremental Prototype Prompt-tuning with Pre-trained Representation for Class Incremental Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2204.03410)
++ **[IPP]** Incremental Prototype Prompt-tuning with Pre-trained Representation for Class Incremental Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2204.03410)
 
-+ **[Incremental-DETR]**Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2205.04042)
++ **[Incremental-DETR]** Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2205.04042)
 
-+ **[ELI]**Energy-Based Latent Aligner for Incremental Learning(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Joseph_Energy-Based_Latent_Aligner_for_Incremental_Learning_CVPR_2022_paper.html)
++ **[ELI]** Energy-Based Latent Aligner for Incremental Learning(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Joseph_Energy-Based_Latent_Aligner_for_Incremental_Learning_CVPR_2022_paper.html)
 
-+ **[CASSLE]**Self-Supervised Models Are Continual Learners(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Fini_Self-Supervised_Models_Are_Continual_Learners_CVPR_2022_paper.html)[[code]](https://github.com/DonkeyShot21/cassle)![GitHub stars](https://img.shields.io/github/stars/DonkeyShot21/cassle.svg?logo=github&label=Stars)
++ **[CASSLE]** Self-Supervised Models Are Continual Learners(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Fini_Self-Supervised_Models_Are_Continual_Learners_CVPR_2022_paper.html)[[code]](https://github.com/DonkeyShot21/cassle)![GitHub stars](https://img.shields.io/github/stars/DonkeyShot21/cassle.svg?logo=github&label=Stars)
 
-+ **[iFS-RCNN]**iFS-RCNN: An Incremental Few-Shot Instance Segmenter(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Nguyen_iFS-RCNN_An_Incremental_Few-Shot_Instance_Segmenter_CVPR_2022_paper.html)
++ **[iFS-RCNN]** iFS-RCNN: An Incremental Few-Shot Instance Segmenter(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Nguyen_iFS-RCNN_An_Incremental_Few-Shot_Instance_Segmenter_CVPR_2022_paper.html)
 
-+ **[WILSON]**Incremental Learning in Semantic Segmentation From Image Labels(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Cermelli_Incremental_Learning_in_Semantic_Segmentation_From_Image_Labels_CVPR_2022_paper.html)[[code]](https://github.com/fcdl94/WILSON)![GitHub stars](https://img.shields.io/github/stars/fcdl94/WILSON.svg?logo=github&label=Stars)
++ **[WILSON]** Incremental Learning in Semantic Segmentation From Image Labels(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Cermelli_Incremental_Learning_in_Semantic_Segmentation_From_Image_Labels_CVPR_2022_paper.html)[[code]](https://github.com/fcdl94/WILSON)![GitHub stars](https://img.shields.io/github/stars/fcdl94/WILSON.svg?logo=github&label=Stars)
 
-+ **[Connector]**Towards Better Plasticity-Stability Trade-Off in Incremental Learning: A Simple Linear Connector(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Lin_Towards_Better_Plasticity-Stability_Trade-Off_in_Incremental_Learning_A_Simple_Linear_CVPR_2022_paper.html)[[code]](https://github.com/lingl1024/Connector)![GitHub stars](https://img.shields.io/github/stars/lingl1024/Connector.svg?logo=github&label=Stars)
++ **[Connector]** Towards Better Plasticity-Stability Trade-Off in Incremental Learning: A Simple Linear Connector(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Lin_Towards_Better_Plasticity-Stability_Trade-Off_in_Incremental_Learning_A_Simple_Linear_CVPR_2022_paper.html)[[code]](https://github.com/lingl1024/Connector)![GitHub stars](https://img.shields.io/github/stars/lingl1024/Connector.svg?logo=github&label=Stars)
 
-+ **[PAD]**Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.13167)
++ **[PAD]** Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.13167)
 
-+ **[ERD]**Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation(CVPR 2022)[[paper]](https://arxiv.org/abs/2204.02136)[[code]](https://github.com/Hi-FT/ERD)![GitHub stars](https://img.shields.io/github/stars/Hi-FT/ERD.svg?logo=github&label=Stars)
++ **[ERD]** Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation(CVPR 2022)[[paper]](https://arxiv.org/abs/2204.02136)[[code]](https://github.com/Hi-FT/ERD)![GitHub stars](https://img.shields.io/github/stars/Hi-FT/ERD.svg?logo=github&label=Stars)
 
-+ **[AFC]**Class-Incremental Learning by Knowledge Distillation with Adaptive Feature Consolidation(CVPR 2022)[[paper]](https://arxiv.org/abs/2204.00895)[[code]](https://github.com/kminsoo/AFC)![GitHub stars](https://img.shields.io/github/stars/kminsoo/AFC.svg?logo=github&label=Stars)
++ **[AFC]** Class-Incremental Learning by Knowledge Distillation with Adaptive Feature Consolidation(CVPR 2022)[[paper]](https://arxiv.org/abs/2204.00895)[[code]](https://github.com/kminsoo/AFC)![GitHub stars](https://img.shields.io/github/stars/kminsoo/AFC.svg?logo=github&label=Stars)
 
-+ **[FACT]**Forward Compatible Few-Shot Class-Incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.06953)[[code]](https://github.com/zhoudw-zdw/CVPR22-Fact)![GitHub stars](https://img.shields.io/github/stars/zhoudw-zdw/CVPR22-Fact.svg?logo=github&label=Stars)
++ **[FACT]** Forward Compatible Few-Shot Class-Incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.06953)[[code]](https://github.com/zhoudw-zdw/CVPR22-Fact)![GitHub stars](https://img.shields.io/github/stars/zhoudw-zdw/CVPR22-Fact.svg?logo=github&label=Stars)
 
-+ **[L2P]**Learning to Prompt for Continual Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2112.08654)[[code]](https://github.com/google-research/l2p)![GitHub stars](https://img.shields.io/github/stars/google-research/l2p.svg?logo=github&label=Stars)
++ **[L2P]** Learning to Prompt for Continual Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2112.08654)[[code]](https://github.com/google-research/l2p)![GitHub stars](https://img.shields.io/github/stars/google-research/l2p.svg?logo=github&label=Stars)
 
-+ **[MEAT]**Meta-attention for ViT-backed Continual Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.11684)[[code]](https://github.com/zju-vipa/MEAT-TIL)![GitHub stars](https://img.shields.io/github/stars/zju-vipa/MEAT-TIL.svg?logo=github&label=Stars)
++ **[MEAT]** Meta-attention for ViT-backed Continual Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.11684)[[code]](https://github.com/zju-vipa/MEAT-TIL)![GitHub stars](https://img.shields.io/github/stars/zju-vipa/MEAT-TIL.svg?logo=github&label=Stars)
 
-+ **[RCIL]**Representation Compensation Networks for Continual Semantic Segmentation(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.05402)[[code]](https://github.com/zhangchbin/RCIL)![GitHub stars](https://img.shields.io/github/stars/zhangchbin/RCIL.svg?logo=github&label=Stars)
++ **[RCIL]** Representation Compensation Networks for Continual Semantic Segmentation(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.05402)[[code]](https://github.com/zhangchbin/RCIL)![GitHub stars](https://img.shields.io/github/stars/zhangchbin/RCIL.svg?logo=github&label=Stars)
 
-+ **[ZITS]**Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.00867)[[code]](https://github.com/DQiaole/ZITS_inpainting)![GitHub stars](https://img.shields.io/github/stars/DQiaole/ZITS_inpainting.svg?logo=github&label=Stars)
++ **[ZITS]** Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.00867)[[code]](https://github.com/DQiaole/ZITS_inpainting)![GitHub stars](https://img.shields.io/github/stars/DQiaole/ZITS_inpainting.svg?logo=github&label=Stars)
 
-+ **[MTPSL]**Learning Multiple Dense Prediction Tasks from Partially Annotated Data(CVPR 2022)[[paper]](https://arxiv.org/abs/2111.14893)[[code]](https://github.com/VICO-UoE/MTPSL)![GitHub stars](https://img.shields.io/github/stars/VICO-UoE/MTPSL.svg?logo=github&label=Stars)
++ **[MTPSL]** Learning Multiple Dense Prediction Tasks from Partially Annotated Data(CVPR 2022)[[paper]](https://arxiv.org/abs/2111.14893)[[code]](https://github.com/VICO-UoE/MTPSL)![GitHub stars](https://img.shields.io/github/stars/VICO-UoE/MTPSL.svg?logo=github&label=Stars)
 
-+ **[MMA]**Modeling Missing Annotations for Incremental Learning in Object Detection(CVPR-Workshop 2022)[[paper]](https://arxiv.org/abs/2204.08766)
++ **[MMA]** Modeling Missing Annotations for Incremental Learning in Object Detection(CVPR-Workshop 2022)[[paper]](https://arxiv.org/abs/2204.08766)
 
-+ **[AdNS]**Balancing Stability and Plasticity through Advanced Null Space in Continual Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2207.12061)
++ **[AdNS]** Balancing Stability and Plasticity through Advanced Null Space in Continual Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2207.12061)
 
-+ **[ProCA]**Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation(ECCV 2022)[[paper]](https://arxiv.org/abs/2207.10856)[[code]](https://github.com/Hongbin98/ProCA)![GitHub stars](https://img.shields.io/github/stars/Hongbin98/ProCA.svg?logo=github&label=Stars)
++ **[ProCA]** Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation(ECCV 2022)[[paper]](https://arxiv.org/abs/2207.10856)[[code]](https://github.com/Hongbin98/ProCA)![GitHub stars](https://img.shields.io/github/stars/Hongbin98/ProCA.svg?logo=github&label=Stars)
 
-+ **[R-DFCIL]**R-DFCIL: Relation-Guided Representation Learning for Data-Free Class Incremental Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2203.13104)[[code]](https://github.com/jianzhangcs/R-DFCIL)![GitHub stars](https://img.shields.io/github/stars/jianzhangcs/R-DFCIL.svg?logo=github&label=Stars)
++ **[R-DFCIL]** R-DFCIL: Relation-Guided Representation Learning for Data-Free Class Incremental Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2203.13104)[[code]](https://github.com/jianzhangcs/R-DFCIL)![GitHub stars](https://img.shields.io/github/stars/jianzhangcs/R-DFCIL.svg?logo=github&label=Stars)
 
-+ **[S3C]**S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning(ECCV 2022)[[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850427.pdf)[[code]](https://github.com/JAYATEJAK/S3C)![GitHub stars](https://img.shields.io/github/stars/JAYATEJAK/S3C.svg?logo=github&label=Stars)
++ **[S3C]** S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning(ECCV 2022)[[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850427.pdf)[[code]](https://github.com/JAYATEJAK/S3C)![GitHub stars](https://img.shields.io/github/stars/JAYATEJAK/S3C.svg?logo=github&label=Stars)
 
-+ **[H^2^]**Helpful or Harmful: Inter-Task Association in Continual Learning(ECCV 2022)[[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710518.pdf)
++ **[H^2^]** Helpful or Harmful: Inter-Task Association in Continual Learning(ECCV 2022)[[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710518.pdf)
 
-+ **[DualPrompt]**DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2204.04799)
++ **[DualPrompt]** DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2204.04799)
 
-+ **[ALICE]**Few-Shot Class Incremental Learning From an Open-Set Perspective(ECCV 2022)[[paper]](https://arxiv.org/pdf/2208.00147.pdf)[[code]](https://github.com/CanPeng123/FSCIL_ALICE)![GitHub stars](https://img.shields.io/github/stars/CanPeng123/FSCIL_ALICE.svg?logo=github&label=Stars)
++ **[ALICE]** Few-Shot Class Incremental Learning From an Open-Set Perspective(ECCV 2022)[[paper]](https://arxiv.org/pdf/2208.00147.pdf)[[code]](https://github.com/CanPeng123/FSCIL_ALICE)![GitHub stars](https://img.shields.io/github/stars/CanPeng123/FSCIL_ALICE.svg?logo=github&label=Stars)
 
-+ **[RU-TIL]**Incremental Task Learning with Incremental Rank Updates(ECCV 2022)[[paper]](https://arxiv.org/pdf/2207.09074.pdf)[[code]](https://github.com/CSIPlab/task-increment-rank-update)![GitHub stars](https://img.shields.io/github/stars/CSIPlab/task-increment-rank-update.svg?logo=github&label=Stars)
++ **[RU-TIL]** Incremental Task Learning with Incremental Rank Updates(ECCV 2022)[[paper]](https://arxiv.org/pdf/2207.09074.pdf)[[code]](https://github.com/CSIPlab/task-increment-rank-update)![GitHub stars](https://img.shields.io/github/stars/CSIPlab/task-increment-rank-update.svg?logo=github&label=Stars)
 
-+ **[FOSTER]**FOSTER: Feature Boosti ng and Compression for Class-Incremental Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2204.04662)
++ **[FOSTER]** FOSTER: Feature Boosti ng and Compression for Class-Incremental Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2204.04662)
 
-+ **[SSR]**Subspace Regularizers for Few-Shot Class Incremental Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=boJy41J-tnQ)[[code]](https://github.com/feyzaakyurek/subspace-reg)![GitHub stars](https://img.shields.io/github/stars/feyzaakyurek/subspace-reg.svg?logo=github&label=Stars)
++ **[SSR]** Subspace Regularizers for Few-Shot Class Incremental Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=boJy41J-tnQ)[[code]](https://github.com/feyzaakyurek/subspace-reg)![GitHub stars](https://img.shields.io/github/stars/feyzaakyurek/subspace-reg.svg?logo=github&label=Stars)
 
-+ **[RGO]**Continual Learning with Recursive Gradient Optimization(ICLR 2022)[[paper]](https://openreview.net/pdf?id=7YDLgf9_zgm)
++ **[RGO]** Continual Learning with Recursive Gradient Optimization(ICLR 2022)[[paper]](https://openreview.net/pdf?id=7YDLgf9_zgm)
 
-+ **[TRGP]**TRGP: Trust Region Gradient Projection for Continual Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=iEvAf8i6JjO)
++ **[TRGP]** TRGP: Trust Region Gradient Projection for Continual Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=iEvAf8i6JjO)
 
-+ **[AGCN]**AGCN: Augmented Graph Convolutional Network for Lifelong Multi-Label Image Recognition(ICME 2022)[[paper]](https://arxiv.org/abs/2203.05534)[[code]](https://github.com/Kaile-Du/AGCN)![GitHub stars](https://img.shields.io/github/stars/Kaile-Du/AGCN.svg?logo=github&label=Stars)
++ **[AGCN]** AGCN: Augmented Graph Convolutional Network for Lifelong Multi-Label Image Recognition(ICME 2022)[[paper]](https://arxiv.org/abs/2203.05534)[[code]](https://github.com/Kaile-Du/AGCN)![GitHub stars](https://img.shields.io/github/stars/Kaile-Du/AGCN.svg?logo=github&label=Stars)
 
-+ **[WSN]**Forget-free Continual Learning with Winning Subnetworks(ICML 2022)[[paper]](https://proceedings.mlr.press/v162/kang22b/kang22b.pdf)[[code]](https://github.com/ihaeyong/WSN)![GitHub stars](https://img.shields.io/github/stars/ihaeyong/WSN.svg?logo=github&label=Stars)
++ **[WSN]** Forget-free Continual Learning with Winning Subnetworks(ICML 2022)[[paper]](https://proceedings.mlr.press/v162/kang22b/kang22b.pdf)[[code]](https://github.com/ihaeyong/WSN)![GitHub stars](https://img.shields.io/github/stars/ihaeyong/WSN.svg?logo=github&label=Stars)
 
-+ **[NISPA]**NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks(ICML 2022)[[paper]](https://proceedings.mlr.press/v162/gurbuz22a/gurbuz22a.pdf)[[code]](https://github.com/BurakGurbuz97/NISPA)![GitHub stars](https://img.shields.io/github/stars/BurakGurbuz97/NISPA.svg?logo=github&label=Stars)
++ **[NISPA]** NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks(ICML 2022)[[paper]](https://proceedings.mlr.press/v162/gurbuz22a/gurbuz22a.pdf)[[code]](https://github.com/BurakGurbuz97/NISPA)![GitHub stars](https://img.shields.io/github/stars/BurakGurbuz97/NISPA.svg?logo=github&label=Stars)
 
-+ **[S-FSVI]**Continual Learning via Sequential Function-Space Variational Inference(ICML 2022)[[paper]](https://proceedings.mlr.press/v162/rudner22a/rudner22a.pdf)[[code]](https://github.com/timrudner/S-FSVI)![GitHub stars](https://img.shields.io/github/stars/timrudner/S-FSVI.svg?logo=github&label=Stars)
++ **[S-FSVI]** Continual Learning via Sequential Function-Space Variational Inference(ICML 2022)[[paper]](https://proceedings.mlr.press/v162/rudner22a/rudner22a.pdf)[[code]](https://github.com/timrudner/S-FSVI)![GitHub stars](https://img.shields.io/github/stars/timrudner/S-FSVI.svg?logo=github&label=Stars)
 
-+ **[CUBER]**Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2211.00789)
++ **[CUBER]** Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2211.00789)
 
-+ **[ADA]**Memory Efficient Continual Learning with Transformers(NeurIPS 2022)[[paper]](https://www.amazon.science/publications/memory-efficient-continual-learning-with-transformers)
++ **[ADA]** Memory Efficient Continual Learning with Transformers(NeurIPS 2022)[[paper]](https://www.amazon.science/publications/memory-efficient-continual-learning-with-transformers)
 
-+ **[CLOM]**Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2210.04524)
++ **[CLOM]** Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2210.04524)
 
-+ **[S-Prompt]**S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2207.12819)
++ **[S-Prompt]** S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2207.12819)
 
-+ **[ALIFE]**ALIFE: Adaptive Logit Regularizer and Feature Replay for Incremental Semantic Segmentation(NIPS 2022)[[paper]](https://arxiv.org/abs/2210.06816)
++ **[ALIFE]** ALIFE: Adaptive Logit Regularizer and Feature Replay for Incremental Semantic Segmentation(NIPS 2022)[[paper]](https://arxiv.org/abs/2210.06816)
 
-+ **[PMT]**Continual Learning In Environments With Polynomial Mixing Times(NIPS 2022)[[paper]](https://arxiv.org/abs/2112.07066)
++ **[PMT]** Continual Learning In Environments With Polynomial Mixing Times(NIPS 2022)[[paper]](https://arxiv.org/abs/2112.07066)
 
-+ **[STCISS]**Self-training for class-incremental semantic segmentation(TNNLS 2022)[[paper]](https://arxiv.org/abs/2012.03362)
++ **[STCISS]** Self-training for class-incremental semantic segmentation(TNNLS 2022)[[paper]](https://arxiv.org/abs/2012.03362)
 
-+ **[DSN]**Dynamic Support Network for Few-shot Class Incremental Learning(TPAMI 2022)[[paper]](https://ieeexplore.ieee.org/document/9779071)
++ **[DSN]** Dynamic Support Network for Few-shot Class Incremental Learning(TPAMI 2022)[[paper]](https://ieeexplore.ieee.org/document/9779071)
 
-+ **[MgSvF]**MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning(TPAMI 2022)[[paper]](https://arxiv.org/abs/2006.15524)
++ **[MgSvF]** MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning(TPAMI 2022)[[paper]](https://arxiv.org/abs/2006.15524)
 
-+ **[TransIL]**Dataset Knowledge Transfer for Class-Incremental Learning without Memory(WACV 2022)[[paper]](https://arxiv.org/pdf/2110.08421.pdf)
++ **[TransIL]** Dataset Knowledge Transfer for Class-Incremental Learning without Memory(WACV 2022)[[paper]](https://arxiv.org/pdf/2110.08421.pdf)
 
-+ **[NER-FSCIL]**Few-Shot Class-Incremental Learning for Named Entity Recognition(ACL 2022)[[paper]](https://aclanthology.org/2022.acl-long.43/)
++ **[NER-FSCIL]** Few-Shot Class-Incremental Learning for Named Entity Recognition(ACL 2022)[[paper]](https://aclanthology.org/2022.acl-long.43/)
 
-+ **[LIMIT]**Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks(arXiv 2022)[[paper]](https://arxiv.org/abs/2203.17030)
++ **[LIMIT]** Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks(arXiv 2022)[[paper]](https://arxiv.org/abs/2203.17030)
 
-+ **[EMP]**Incremental Prompting: Episodic Memory Prompt for Lifelong Event Detection(arXiv 2022)[[paper]](https://arxiv.org/abs/2204.07275)
++ **[EMP]** Incremental Prompting: Episodic Memory Prompt for Lifelong Event Detection(arXiv 2022)[[paper]](https://arxiv.org/abs/2204.07275)
 
-+ **[SPTM]**Class-Incremental Learning With Strong Pre-Trained Model(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Class-Incremental_Learning_With_Strong_Pre-Trained_Models_CVPR_2022_paper.html)
++ **[SPTM]** Class-Incremental Learning With Strong Pre-Trained Model(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Class-Incremental_Learning_With_Strong_Pre-Trained_Models_CVPR_2022_paper.html)
 
-+ **[BER]**Bring Evanescent Representations to Life in Lifelong Class Incremental Learning(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Toldo_Bring_Evanescent_Representations_to_Life_in_Lifelong_Class_Incremental_Learning_CVPR_2022_paper.html)
++ **[BER]** Bring Evanescent Representations to Life in Lifelong Class Incremental Learning(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Toldo_Bring_Evanescent_Representations_to_Life_in_Lifelong_Class_Incremental_Learning_CVPR_2022_paper.html)
 
-+ **[Sylph]**Sylph: A Hypernetwork Framework for Incremental Few-Shot Object Detection(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_Sylph_A_Hypernetwork_Framework_for_Incremental_Few-Shot_Object_Detection_CVPR_2022_paper.html)
++ **[Sylph]** Sylph: A Hypernetwork Framework for Incremental Few-Shot Object Detection(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_Sylph_A_Hypernetwork_Framework_for_Incremental_Few-Shot_Object_Detection_CVPR_2022_paper.html)
 
-+ **[MetaFSCIL]**MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.html)
++ **[MetaFSCIL]** MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.html)
 
-+ **[FCIL]**Federated Class-Incremental Learning(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)[[code]](https://github.com/conditionWang/FCIL)![GitHub stars](https://img.shields.io/github/stars/conditionWang/FCIL.svg?logo=github&label=Stars)
++ **[FCIL]** Federated Class-Incremental Learning(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)[[code]](https://github.com/conditionWang/FCIL)![GitHub stars](https://img.shields.io/github/stars/conditionWang/FCIL.svg?logo=github&label=Stars)
 
-+ **[FILIT]**Few-Shot Incremental Learning for Label-to-Image Translation(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Few-Shot_Incremental_Learning_for_Label-to-Image_Translation_CVPR_2022_paper.html)
++ **[FILIT]** Few-Shot Incremental Learning for Label-to-Image Translation(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Few-Shot_Incremental_Learning_for_Label-to-Image_Translation_CVPR_2022_paper.html)
 
-+ **[PuriDivER]**Online Continual Learning on a Contaminated Data Stream With Blurry Task Boundaries(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Bang_Online_Continual_Learning_on_a_Contaminated_Data_Stream_With_Blurry_CVPR_2022_paper.html)[[code]](https://github.com/clovaai/puridiver)![GitHub stars](https://img.shields.io/github/stars/clovaai/puridiver.svg?logo=github&label=Stars)
++ **[PuriDivER]** Online Continual Learning on a Contaminated Data Stream With Blurry Task Boundaries(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Bang_Online_Continual_Learning_on_a_Contaminated_Data_Stream_With_Blurry_CVPR_2022_paper.html)[[code]](https://github.com/clovaai/puridiver)![GitHub stars](https://img.shields.io/github/stars/clovaai/puridiver.svg?logo=github&label=Stars)
 
-+ **[SNCL]**Learning Bayesian Sparse Networks With Full Experience Replay for Continual Learning(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yan_Learning_Bayesian_Sparse_Networks_With_Full_Experience_Replay_for_Continual_CVPR_2022_paper.html)
++ **[SNCL]** Learning Bayesian Sparse Networks With Full Experience Replay for Continual Learning(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yan_Learning_Bayesian_Sparse_Networks_With_Full_Experience_Replay_for_Continual_CVPR_2022_paper.html)
 
-+ **[DVC]**Not Just Selection, but Exploration: Online Class-Incremental Continual Learning via Dual View Consistency(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Gu_Not_Just_Selection_but_Exploration_Online_Class-Incremental_Continual_Learning_via_CVPR_2022_paper.html)[[code]](https://github.com/YananGu/DVC)![GitHub stars](https://img.shields.io/github/stars/YananGu/DVC.svg?logo=github&label=Stars)
++ **[DVC]** Not Just Selection, but Exploration: Online Class-Incremental Continual Learning via Dual View Consistency(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Gu_Not_Just_Selection_but_Exploration_Online_Class-Incremental_Continual_Learning_via_CVPR_2022_paper.html)[[code]](https://github.com/YananGu/DVC)![GitHub stars](https://img.shields.io/github/stars/YananGu/DVC.svg?logo=github&label=Stars)
 
-+ **[CVS]**Continual Learning for Visual Search With Backward Consistent Feature Embedding(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Wan_Continual_Learning_for_Visual_Search_With_Backward_Consistent_Feature_Embedding_CVPR_2022_paper.html)
++ **[CVS]** Continual Learning for Visual Search With Backward Consistent Feature Embedding(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Wan_Continual_Learning_for_Visual_Search_With_Backward_Consistent_Feature_Embedding_CVPR_2022_paper.html)
 
-+ **[CPL]**Continual Predictive Learning From Videos(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Continual_Predictive_Learning_From_Videos_CVPR_2022_paper.html)
++ **[CPL]** Continual Predictive Learning From Videos(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Continual_Predictive_Learning_From_Videos_CVPR_2022_paper.html)
 
-+ **[GCR]**GCR: Gradient Coreset Based Replay Buffer Selection for Continual Learning(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Tiwari_GCR_Gradient_Coreset_Based_Replay_Buffer_Selection_for_Continual_Learning_CVPR_2022_paper.html)
++ **[GCR]** GCR: Gradient Coreset Based Replay Buffer Selection for Continual Learning(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Tiwari_GCR_Gradient_Coreset_Based_Replay_Buffer_Selection_for_Continual_Learning_CVPR_2022_paper.html)
 
-+ **[LVT]**Continual Learning With Lifelong Vision Transformer(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Continual_Learning_With_Lifelong_Vision_Transformer_CVPR_2022_paper.html)
++ **[LVT]** Continual Learning With Lifelong Vision Transformer(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Continual_Learning_With_Lifelong_Vision_Transformer_CVPR_2022_paper.html)
 
-+ **[vCLIMB]**vCLIMB: A Novel Video Class Incremental Learning Benchmark(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Villa_vCLIMB_A_Novel_Video_Class_Incremental_Learning_Benchmark_CVPR_2022_paper.html)[[code]](https://vclimb.netlify.app/)![GitHub stars](https://img.shields.io/github/stars/vclimb.netlify.app/.svg?logo=github&label=Stars)
++ **[vCLIMB]** vCLIMB: A Novel Video Class Incremental Learning Benchmark(CVPR 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Villa_vCLIMB_A_Novel_Video_Class_Incremental_Learning_Benchmark_CVPR_2022_paper.html)[[code]](https://vclimb.netlify.app/)
 
-+ **[Learn-to-Imagine]**Learning to Imagine: Diversify Memory for Incremental Learning using Unlabeled Data(CVPR 2022)[[paper]](https://arxiv.org/abs/2204.08932)[[code]](https://github.com/TOM-tym/Learn-to-Imagine)![GitHub stars](https://img.shields.io/github/stars/TOM-tym/Learn-to-Imagine.svg?logo=github&label=Stars)
++ **[Learn-to-Imagine]** Learning to Imagine: Diversify Memory for Incremental Learning using Unlabeled Data(CVPR 2022)[[paper]](https://arxiv.org/abs/2204.08932)[[code]](https://github.com/TOM-tym/Learn-to-Imagine)![GitHub stars](https://img.shields.io/github/stars/TOM-tym/Learn-to-Imagine.svg?logo=github&label=Stars)
 
-+ **[DCR]**General Incremental Learning with Domain-aware Categorical Representations(CVPR 2022)[[paper]](https://arxiv.org/abs/2204.04078)
++ **[DCR]** General Incremental Learning with Domain-aware Categorical Representations(CVPR 2022)[[paper]](https://arxiv.org/abs/2204.04078)
 
-+ **[DIY-FSCIL]**Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.14843)
++ **[DIY-FSCIL]** Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.14843)
 
-+ **[C-FSCIL]**Constrained Few-shot Class-incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.16588)[[code]](https://github.com/IBM/constrained-FSCIL)![GitHub stars](https://img.shields.io/github/stars/IBM/constrained-FSCIL.svg?logo=github&label=Stars)
++ **[C-FSCIL]** Constrained Few-shot Class-incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.16588)[[code]](https://github.com/IBM/constrained-FSCIL)![GitHub stars](https://img.shields.io/github/stars/IBM/constrained-FSCIL.svg?logo=github&label=Stars)
 
-+ **[SSRE]**Self-Sustaining Representation Expansion for Non-Exemplar Class-Incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.06359)
++ **[SSRE]** Self-Sustaining Representation Expansion for Non-Exemplar Class-Incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.06359)
 
-+ **[CwD]**Mimicking the Oracle: An Initial Phase Decorrelation Approach for Class Incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2112.04731)[[code]](https://github.com/Yujun-Shi/CwD)![GitHub stars](https://img.shields.io/github/stars/Yujun-Shi/CwD.svg?logo=github&label=Stars)
++ **[CwD]** Mimicking the Oracle: An Initial Phase Decorrelation Approach for Class Incremental Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2112.04731)[[code]](https://github.com/Yujun-Shi/CwD)![GitHub stars](https://img.shields.io/github/stars/Yujun-Shi/CwD.svg?logo=github&label=Stars)
 
-+ **[MSL]**On Generalizing Beyond Domains in Cross-Domain Continual Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.03970)
++ **[MSL]** On Generalizing Beyond Domains in Cross-Domain Continual Learning(CVPR 2022)[[paper]](https://arxiv.org/abs/2203.03970)
 
-+ **[DyTox]**DyTox: Transformers for Continual Learning with DYnamic TOken Expansion(CVPR 2022)[[paper]](https://arxiv.org/abs/2111.11326)[[code]](https://github.com/arthurdouillard/dytox)![GitHub stars](https://img.shields.io/github/stars/arthurdouillard/dytox.svg?logo=github&label=Stars)
++ **[DyTox]** DyTox: Transformers for Continual Learning with DYnamic TOken Expansion(CVPR 2022)[[paper]](https://arxiv.org/abs/2111.11326)[[code]](https://github.com/arthurdouillard/dytox)![GitHub stars](https://img.shields.io/github/stars/arthurdouillard/dytox.svg?logo=github&label=Stars)
 
-+ **[X-DER]**Class-Incremental Continual Learning into the eXtended DER-vers(ECCV 2022)[[paper]](https://arxiv.org/abs/2201.00766)
++ **[X-DER]** Class-Incremental Continual Learning into the eXtended DER-vers(ECCV 2022)[[paper]](https://arxiv.org/abs/2201.00766)
 
-+ **[clsss-iNCD]**Class-incremental Novel Class Discovery(ECCV 2022)[[paper]](https://arxiv.org/abs/2207.08605)[[code]](https://github.com/OatmealLiu/class-iNCD)![GitHub stars](https://img.shields.io/github/stars/OatmealLiu/class-iNCD.svg?logo=github&label=Stars)
++ **[clsss-iNCD]** Class-incremental Novel Class Discovery(ECCV 2022)[[paper]](https://arxiv.org/abs/2207.08605)[[code]](https://github.com/OatmealLiu/class-iNCD)![GitHub stars](https://img.shields.io/github/stars/OatmealLiu/class-iNCD.svg?logo=github&label=Stars)
 
-+ **[ARI]**Anti-Retroactive Interference for Lifelong Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2208.12967)[[code]](https://github.com/bhrqw/ARI)![GitHub stars](https://img.shields.io/github/stars/bhrqw/ARI.svg?logo=github&label=Stars)
++ **[ARI]** Anti-Retroactive Interference for Lifelong Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2208.12967)[[code]](https://github.com/bhrqw/ARI)![GitHub stars](https://img.shields.io/github/stars/bhrqw/ARI.svg?logo=github&label=Stars)
 
-+ **[Long-Tailed-CIL]**Long-Tailed Class Incremental Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2210.00266)[[code]](https://github.com/xialeiliu/Long-Tailed-CIL)![GitHub stars](https://img.shields.io/github/stars/xialeiliu/Long-Tailed-CIL.svg?logo=github&label=Stars)
++ **[Long-Tailed-CIL]** Long-Tailed Class Incremental Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2210.00266)[[code]](https://github.com/xialeiliu/Long-Tailed-CIL)![GitHub stars](https://img.shields.io/github/stars/xialeiliu/Long-Tailed-CIL.svg?logo=github&label=Stars)
 
-+ **[LIRF]**Learning with Recoverable Forgetting(ECCV 2022)[[paper]](https://arxiv.org/abs/2207.08224)
++ **[LIRF]** Learning with Recoverable Forgetting(ECCV 2022)[[paper]](https://arxiv.org/abs/2207.08224)
 
-+ **[DSDM]**Online Task-free Continual Learning with Dynamic Sparse Distributed Memory(ECCV 2022)[[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850721.pdf)[[code]](https://github.com/Julien-pour/Dynamic-Sparse-Distributed-Memory)![GitHub stars](https://img.shields.io/github/stars/Julien-pour/Dynamic-Sparse-Distributed-Memory.svg?logo=github&label=Stars)
++ **[DSDM]** Online Task-free Continual Learning with Dynamic Sparse Distributed Memory(ECCV 2022)[[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850721.pdf)[[code]](https://github.com/Julien-pour/Dynamic-Sparse-Distributed-Memory)![GitHub stars](https://img.shields.io/github/stars/Julien-pour/Dynamic-Sparse-Distributed-Memory.svg?logo=github&label=Stars)
 
-+ **[CVT]**Online Continual Learning with Contrastive Vision Transformer(ECCV 2022)[[paper]](https://arxiv.org/pdf/2207.13516.pdf)
++ **[CVT]** Online Continual Learning with Contrastive Vision Transformer(ECCV 2022)[[paper]](https://arxiv.org/pdf/2207.13516.pdf)
 
-+ **[TwF]**Transfer without Forgetting(ECCV 2022)[[paper]](https://arxiv.org/abs/2206.00388)[[code]](https://github.com/mbosc/twf)![GitHub stars](https://img.shields.io/github/stars/mbosc/twf.svg?logo=github&label=Stars)
++ **[TwF]** Transfer without Forgetting(ECCV 2022)[[paper]](https://arxiv.org/abs/2206.00388)[[code]](https://github.com/mbosc/twf)![GitHub stars](https://img.shields.io/github/stars/mbosc/twf.svg?logo=github&label=Stars)
 
-+ **[CSCCT]**Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer(ECCV 2022)[[paper]](https://cscct.github.io)[[code]](https://github.com/ashok-arjun/CSCCT)![GitHub stars](https://img.shields.io/github/stars/ashok-arjun/CSCCT.svg?logo=github&label=Stars)
++ **[CSCCT]** Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer(ECCV 2022)[[paper]](https://cscct.github.io)[[code]](https://github.com/ashok-arjun/CSCCT)![GitHub stars](https://img.shields.io/github/stars/ashok-arjun/CSCCT.svg?logo=github&label=Stars)
 
-+ **[DLCFT]**DLCFT: Deep Linear Continual Fine-Tuning for General Incremental Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2208.08112)
++ **[DLCFT]** DLCFT: Deep Linear Continual Fine-Tuning for General Incremental Learning(ECCV 2022)[[paper]](https://arxiv.org/abs/2208.08112)
 
-+ **[ERDR]**Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay(ECCV2022)[[paper]](https://arxiv.org/pdf/2207.11213.pdf)
++ **[ERDR]** Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay(ECCV2022)[[paper]](https://arxiv.org/pdf/2207.11213.pdf)
 
-+ **[NCDwF]**Novel Class Discovery without Forgetting(ECCV2022)[[paper]](https://arxiv.org/abs/2207.10659)
++ **[NCDwF]** Novel Class Discovery without Forgetting(ECCV2022)[[paper]](https://arxiv.org/abs/2207.10659)
 
-+ **[CoMPS]**CoMPS: Continual Meta Policy Search(ICLR 2022)[[paper]](https://openreview.net/pdf?id=PVJ6j87gOHz)
++ **[CoMPS]** CoMPS: Continual Meta Policy Search(ICLR 2022)[[paper]](https://openreview.net/pdf?id=PVJ6j87gOHz)
 
-+ **[i-fuzzy]**Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference(ICLR 2022)[[paper]](https://openreview.net/pdf?id=nrGGfMbY_qK)[[code]](https://github.com/naver-ai/i-Blurry)![GitHub stars](https://img.shields.io/github/stars/naver-ai/i-Blurry.svg?logo=github&label=Stars)
++ **[i-fuzzy]** Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference(ICLR 2022)[[paper]](https://openreview.net/pdf?id=nrGGfMbY_qK)[[code]](https://github.com/naver-ai/i-Blurry)![GitHub stars](https://img.shields.io/github/stars/naver-ai/i-Blurry.svg?logo=github&label=Stars)
 
-+ **[CLS-ER]**Learning Fast, Learning Slow: A General Continual Learning Method based on Complementary Learning System(ICLR 2022)[[paper]](https://openreview.net/pdf?id=uxxFrDwrE7Y)[[code]](https://github.com/NeurAI-Lab/CLS-ER)![GitHub stars](https://img.shields.io/github/stars/NeurAI-Lab/CLS-ER.svg?logo=github&label=Stars)
++ **[CLS-ER]** Learning Fast, Learning Slow: A General Continual Learning Method based on Complementary Learning System(ICLR 2022)[[paper]](https://openreview.net/pdf?id=uxxFrDwrE7Y)[[code]](https://github.com/NeurAI-Lab/CLS-ER)![GitHub stars](https://img.shields.io/github/stars/NeurAI-Lab/CLS-ER.svg?logo=github&label=Stars)
 
-+ **[DPPs]**Memory Replay with Data Compression for Continual Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=a7H7OucbWaU)[[code]](https://github.com/andrearosasco/DistilledReplay)![GitHub stars](https://img.shields.io/github/stars/andrearosasco/DistilledReplay.svg?logo=github&label=Stars)
++ **[DPPs]** Memory Replay with Data Compression for Continual Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=a7H7OucbWaU)[[code]](https://github.com/andrearosasco/DistilledReplay)![GitHub stars](https://img.shields.io/github/stars/andrearosasco/DistilledReplay.svg?logo=github&label=Stars)
 
-+ **[OCS]**Online Coreset Selection for Rehearsal-based Continual Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=f9D-5WNG4Nv)
++ **[OCS]** Online Coreset Selection for Rehearsal-based Continual Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=f9D-5WNG4Nv)
 
-+ **[InfoRS]**Information-theoretic Online Memory Selection for Continual Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=IpctgL7khPp)
++ **[InfoRS]** Information-theoretic Online Memory Selection for Continual Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=IpctgL7khPp)
 
-+ **[ER-AML]**New Insights on Reducing Abrupt Representation Change in Online Continual Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=N8MaByOzUfb)[[code]](https://github.com/pclucas14/aml)![GitHub stars](https://img.shields.io/github/stars/pclucas14/aml.svg?logo=github&label=Stars)
++ **[ER-AML]** New Insights on Reducing Abrupt Representation Change in Online Continual Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=N8MaByOzUfb)[[code]](https://github.com/pclucas14/aml)![GitHub stars](https://img.shields.io/github/stars/pclucas14/aml.svg?logo=github&label=Stars)
 
-+ **[FAS]**Continual Learning with Filter Atom Swapping(ICLR 2022)[[paper]](https://openreview.net/pdf?id=metRpM4Zrcb)
++ **[FAS]** Continual Learning with Filter Atom Swapping(ICLR 2022)[[paper]](https://openreview.net/pdf?id=metRpM4Zrcb)
 
-+ **[LUMP]**Rethinking the Representational Continuity: Towards Unsupervised Continual Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=9Hrka5PA7LW)
++ **[LUMP]** Rethinking the Representational Continuity: Towards Unsupervised Continual Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=9Hrka5PA7LW)
 
-+ **[CF-IL]**Looking Back on Learned Experiences For Class/task Incremental Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=RxplU3vmBx)[[code]](https://github.com/MozhganPourKeshavarz/Cost-Free-Incremental-Learning)![GitHub stars](https://img.shields.io/github/stars/MozhganPourKeshavarz/Cost-Free-Incremental-Learning.svg?logo=github&label=Stars)
++ **[CF-IL]** Looking Back on Learned Experiences For Class/task Incremental Learning(ICLR 2022)[[paper]](https://openreview.net/pdf?id=RxplU3vmBx)[[code]](https://github.com/MozhganPourKeshavarz/Cost-Free-Incremental-Learning)![GitHub stars](https://img.shields.io/github/stars/MozhganPourKeshavarz/Cost-Free-Incremental-Learning.svg?logo=github&label=Stars)
 
-+ **[LFPT5]**LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5(ICLR 2022)[[paper]](https://openreview.net/pdf?id=HCRVf71PMF)[[code]](https://github.com/qcwthu/Lifelong-Fewshot-Language-Learning)![GitHub stars](https://img.shields.io/github/stars/qcwthu/Lifelong-Fewshot-Language-Learning.svg?logo=github&label=Stars)
++ **[LFPT5]** LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5(ICLR 2022)[[paper]](https://openreview.net/pdf?id=HCRVf71PMF)[[code]](https://github.com/qcwthu/Lifelong-Fewshot-Language-Learning)![GitHub stars](https://img.shields.io/github/stars/qcwthu/Lifelong-Fewshot-Language-Learning.svg?logo=github&label=Stars)
 
-+ **[Model Zoo]**Model Zoo: A Growing Brain That Learns Continually(ICLR 2022)[[paper]](https://arxiv.org/abs/2106.03027)
++ **[Model Zoo]** Model Zoo: A Growing Brain That Learns Continually(ICLR 2022)[[paper]](https://arxiv.org/abs/2106.03027)
 
-+ **[OCM]**Online Continual Learning through Mutual Information Maximization(ICML 2022)[[paper]](https://proceedings.mlr.press/v162/guo22g/guo22g.pdf)[[code]](https://github.com/gydpku/OCM)![GitHub stars](https://img.shields.io/github/stars/gydpku/OCM.svg?logo=github&label=Stars)
++ **[OCM]** Online Continual Learning through Mutual Information Maximization(ICML 2022)[[paper]](https://proceedings.mlr.press/v162/guo22g/guo22g.pdf)[[code]](https://github.com/gydpku/OCM)![GitHub stars](https://img.shields.io/github/stars/gydpku/OCM.svg?logo=github&label=Stars)
 
-+ **[DRO]**Improving Task-free Continual Learning by Distributionally Robust Memory Evolution(ICML 2022)[[paper]](https://proceedings.mlr.press/v162/wang22v/wang22v.pdf)[[code]](https://github.com/joey-wang123/DRO-Task-free)![GitHub stars](https://img.shields.io/github/stars/joey-wang123/DRO-Task-free.svg?logo=github&label=Stars)
++ **[DRO]** Improving Task-free Continual Learning by Distributionally Robust Memory Evolution(ICML 2022)[[paper]](https://proceedings.mlr.press/v162/wang22v/wang22v.pdf)[[code]](https://github.com/joey-wang123/DRO-Task-free)![GitHub stars](https://img.shields.io/github/stars/joey-wang123/DRO-Task-free.svg?logo=github&label=Stars)
 
-+ **[EAK]**Effects of Auxiliary Knowledge on Continual Learning(ICPR 2022)[[paper]](https://arxiv.org/abs/2206.02577)
++ **[EAK]** Effects of Auxiliary Knowledge on Continual Learning(ICPR 2022)[[paper]](https://arxiv.org/abs/2206.02577)
 
-+ **[RAR]**Retrospective Adversarial Replay for Continual Learning(NeurIPS 2022)[[paper]](https://openreview.net/forum?id=XEoih0EwCwL&referrer=%5Bthe%20profile%20of%20Tianyi%20Zhou%5D(%2Fprofile%3Fid%3D~Tianyi_Zhou2))
++ **[RAR]** Retrospective Adversarial Replay for Continual Learning(NeurIPS 2022)[[paper]](https://openreview.net/forum?id=XEoih0EwCwL&referrer=%5Bthe%20profile%20of%20Tianyi%20Zhou%5D(%2Fprofile%3Fid%3D~Tianyi_Zhou2))
 
-+ **[LiDER]**On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2210.06443)
++ **[LiDER]** On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2210.06443)
 
-+ **[SparCL]**SparCL: Sparse Continual Learning on the Edge(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2209.09476)
++ **[SparCL]** SparCL: Sparse Continual Learning on the Edge(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2209.09476)
 
-+ **[ClonEx-SAC]**Disentangling Transfer in Continual Reinforcement Learning(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2209.13900)
++ **[ClonEx-SAC]** Disentangling Transfer in Continual Reinforcement Learning(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2209.13900)
 
-+ **[ODDL]**Task-Free Continual Learning via Online Discrepancy Distance Learning(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2210.06579)
++ **[ODDL]** Task-Free Continual Learning via Online Discrepancy Distance Learning(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2210.06579)
 
-+ **[CSSL]**Continual semi-supervised learning through contrastive interpolation consistency(PRL 2022)[[paper]](https://arxiv.org/abs/2108.06552)
++ **[CSSL]** Continual semi-supervised learning through contrastive interpolation consistency(PRL 2022)[[paper]](https://arxiv.org/abs/2108.06552)
 
-+ **[MBP]**Model Behavior Preserving for Class-Incremental Learning(TNNLS 2022)[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9705128)
++ **[MBP]** Model Behavior Preserving for Class-Incremental Learning(TNNLS 2022)[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9705128)
 
-+ **[CandVot]**Online Continual Learning via Candidates Voting(WACV 2022)[[paper]](https://openaccess.thecvf.com/content/WACV2022/papers/He_Online_Continual_Learning_via_Candidates_Voting_WACV_2022_paper.pdf)
++ **[CandVot]** Online Continual Learning via Candidates Voting(WACV 2022)[[paper]](https://openaccess.thecvf.com/content/WACV2022/papers/He_Online_Continual_Learning_via_Candidates_Voting_WACV_2022_paper.pdf)
 
-+ **[FlashCards]**Knowledge Capture and Replay for Continual Learning(WACV 2022)[[paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Gopalakrishnan_Knowledge_Capture_and_Replay_for_Continual_Learning_WACV_2022_paper.pdf)
-
-
- ## 2021
++ **[FlashCards]** Knowledge Capture and Replay for Continual Learning(WACV 2022)[[paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Gopalakrishnan_Knowledge_Capture_and_Replay_for_Continual_Learning_WACV_2022_paper.pdf)
 
 + **[Meta-DR]** Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning(CVPR 2021)[[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Volpi_Continual_Adaptation_of_Visual_Representations_via_Domain_Randomization_and_Meta-Learning_CVPR_2021_paper.html)
 + **[continual cross-modal retrieval]** Continual learning in cross-modal retrieval(CVPR 2021)[[paper]](https://openaccess.thecvf.com/content/CVPR2021W/CLVision/html/Wang_Continual_Learning_in_Cross-Modal_Retrieval_CVPRW_2021_paper.html)
