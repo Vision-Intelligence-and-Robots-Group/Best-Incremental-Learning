@@ -48,6 +48,8 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 ### 2.1 Surveys
 
++ A Comprehensive Survey of Continual Learning: Theory, Method and Application(Arxiv 2023)[[paper]](https://arxiv.org/abs/2302.00487)
+
 + **[FACIL]** Class-incremental learning: survey and performance evaluation on image classification(TPAMI 2022)[[paper]](https://arxiv.org/abs/2010.15277)[[code]](https://github.com/mmasana/FACIL)![GitHub stars](https://img.shields.io/github/stars/mmasana/FACIL.svg?logo=github&label=Stars)
 
 + Online Continual Learning in Image Classification: An Empirical Survey (Neurocomputing 2021)[[paper]](https://arxiv.org/abs/2101.10423)
