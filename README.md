@@ -48,7 +48,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 ### 2.1 Surveys
 
-+ A Comprehensive Survey of Continual Learning: Theory, Method and Application(Arxiv 2023)[[paper]](https://arxiv.org/abs/2302.00487)
++ A Comprehensive Survey of Continual Learning: Theory, Method and Application(arxiv 2023)[[paper]](https://arxiv.org/abs/2302.00487)
 
 + **[FACIL]** Class-incremental learning: survey and performance evaluation on image classification(TPAMI 2022)[[paper]](https://arxiv.org/abs/2010.15277)[[code]](https://github.com/mmasana/FACIL)![GitHub stars](https://img.shields.io/github/stars/mmasana/FACIL.svg?logo=github&label=Stars)
 
@@ -75,6 +75,12 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 + Continual lifelong learning with neural networks: A review(arXiv 2019)[[paper]](https://arxiv.org/abs/1802.07569)
 
 ### 2.2 Analysis & Study
+
++ How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning?(NeurIPS 2022)[[paper]](https://openreview.net/forum?id=c0l2YolqD2T)
+
++ **[WPTP]** A Theoretical Study on Solving Continual Learning(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2211.02633)[[code]](https://github.com/k-gyuhak/WPTP)![GitHub stars](https://img.shields.io/github/stars/k-gyuhak/WPTP)
+
++ The Challenges of Continuous Self-Supervised Learning(ECCV 2022)[[peper]](https://arxiv.org/abs/2203.12710)
 
 + Continual learning: a feature extraction formalization, an efficient algorithm, and fundamental obstructions(NeurIPS 2022)[[paper]](https://arxiv.org/abs/2203.14383)
 
