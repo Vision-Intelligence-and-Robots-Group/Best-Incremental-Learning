@@ -48,6 +48,8 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 ### 2.1 Surveys
 
++ Deep Class-Incremental Learning: A Survey(arXiv 2023)[[paper]](https://arxiv.org/pdf/2302.03648.pdf)[[code]](https://github.com/zhoudw-zdw/CIL_Survey/)![GitHub stars](https://img.shields.io/github/stars/zhoudw-zdw/CIL_Survey.svg?logo=github&label=Stars)
+
 + A Comprehensive Survey of Continual Learning: Theory, Method and Application(arxiv 2023)[[paper]](https://arxiv.org/abs/2302.00487)
 
 + **[FACIL]** Class-incremental learning: survey and performance evaluation on image classification(TPAMI 2022)[[paper]](https://arxiv.org/abs/2010.15277)[[code]](https://github.com/mmasana/FACIL)![GitHub stars](https://img.shields.io/github/stars/mmasana/FACIL.svg?logo=github&label=Stars)
