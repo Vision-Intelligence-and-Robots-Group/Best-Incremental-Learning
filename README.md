@@ -114,7 +114,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 + LifeLonger: A Benchmark for Continual Disease Classification(arXiv 2022)[[paper]](https://arxiv.org/abs/2204.05737)
 
-+ **[CDDB]** A Continual Deepfake Detection Benchmark: Dataset, Methods, and Essentials(arXiv 2022)[[paper]](https://arxiv.org/abs/2205.05467)
++ **[CDDB]** A Continual Deepfake Detection Benchmark: Dataset, Methods, and Essentials(WACV 2023)[[paper]](https://arxiv.org/abs/2205.05467)
 
 + **[BN Tricks]** Diagnosing Batch Normalization in Class Incremental Learning(arXiv 2022)[[paper]](https://arxiv.org/abs/2202.08025)
 
