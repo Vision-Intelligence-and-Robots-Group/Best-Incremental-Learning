@@ -76,6 +76,8 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 + Continual lifelong learning with neural networks: A review(arXiv 2019)[[paper]](https://arxiv.org/abs/1802.07569)
 
++ 类别增量学习研究进展和性能评价 (自动化学报 2023)[[paper]](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c220588)
+
 ### 2.2 Analysis & Study
 
 + How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning?(NeurIPS 2022)[[paper]](https://openreview.net/forum?id=c0l2YolqD2T)
