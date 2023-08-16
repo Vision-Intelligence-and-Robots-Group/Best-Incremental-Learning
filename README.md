@@ -277,6 +277,7 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 
 ## 2023
 + 
++ Heterogeneous Continual Learning(CVPR 2023)[[paper]](https://arxiv.org/abs/2306.08593)
 + Partial Hypernetworks for Continual Learning(CoLLAs 2023)[[paper]](https://arxiv.org/abs/2306.10724)
 + Learnability and Algorithm for Continual Learning(ICML 2023)[[paper]](https://arxiv.org/abs/2306.12646)
 + Parameter-Level Soft-Masking for Continual Learning(ICML 2023)[[paper]](https://arxiv.org/abs/2306.14775)
