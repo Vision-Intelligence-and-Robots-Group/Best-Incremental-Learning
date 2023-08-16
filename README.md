@@ -47,6 +47,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 ## 2  Survey <span id='survey'></span>
 
 ### 2.1 Surveys
++ A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning(arXiv 2023)[[github]](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning)
 
 + Deep Class-Incremental Learning: A Survey(arXiv 2023)[[paper]](https://arxiv.org/pdf/2302.03648.pdf)[[code]](https://github.com/zhoudw-zdw/CIL_Survey/)![GitHub stars](https://img.shields.io/github/stars/zhoudw-zdw/CIL_Survey.svg?logo=github&label=Stars)
 
@@ -275,7 +276,21 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 # Full Paper List <span id='paper-list'></span>
 
 ## 2023
-
++ 
++ Partial Hypernetworks for Continual Learning(CoLLAs 2023)[[paper]](https://arxiv.org/abs/2306.10724)
++ Learnability and Algorithm for Continual Learning(ICML 2023)[[paper]](https://arxiv.org/abs/2306.12646)
++ Parameter-Level Soft-Masking for Continual Learning(ICML 2023)[[paper]](https://arxiv.org/abs/2306.14775)
++ Improving Online Continual Learning Performance and Stability with Temporal Ensembles(CoLLAs 2023)[[paper]](https://arxiv.org/abs/2306.16817)
++ Exploring Continual Learning for Code Generation Models(ACL 2023)[[paper]](https://arxiv.org/abs/2307.02435)
++ **[Fed-CPrompt]** Fed-CPrompt: Contrastive Prompt for Rehearsal-Free Federated Continual Learning(FL-ICML 2023)[[paper]](https://arxiv.org/abs/2307.04869)
++ Online Continual Learning for Robust Indoor Object Recognition(ICCV 2023)[[paper]](https://arxiv.org/abs/2307.09827)
++ Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery(ICCV 2023)[[paper]](https://arxiv.org/abs/2307.10943)
++ **[XLDA]** XLDA: Linear Discriminant Analysis for Scaling Continual Learning to Extreme Classification at the Edge[ICML 2023][[paper]](https://arxiv.org/abs/2307.11317)
++ **[CLR]** CLR: Channel-wise Lightweight Reprogramming for Continual Learning(ICCV 2023)[[paper]](https://arxiv.org/abs/2307.11386)
++ **[CS-VQLA]** Revisiting Distillation for Continual Learning on Visual Question Localized-Answering in Robotic Surgery(MICCAI 2023)[[paper]](https://arxiv.org/abs/2307.12045)[[code]](https://github.com/longbai1006/CS-VQLA)
++ Online Prototype Learning for Online Continual Learning(ICCV 2023)[[paper]](https://arxiv.org/abs/2308.00301)[[code]](https://github.com/weilllllls/OnPro)
++ Cost-effective On-device Continual Learning over Memory Hierarchy with Miro(ACM MobiCom 23)[[paper]](https://arxiv.org/abs/2308.06053)
++ **[CBA]** CBA: Improving Online Continual Learning via Continual Bias Adaptor(ICCV 2023)[[paper]](https://arxiv.org/abs/2308.06925)
 + **[A-Prompts]** Remind of the Past: Incremental Learning with Analogical Prompts(arXiv 2023)[[paper]](https://arxiv.org/abs/2303.13898)
 + **[ESN]** Isolation and Impartial Aggregation: A Paradigm of Incremental Learning without Interference(AAAI 2023)[[paper]](https://arxiv.org/abs/2211.15969)[[code]](https://github.com/iamwangyabin/ESN)![GitHub stars](https://img.shields.io/github/stars/iamwangyabin/ESN.svg?logo=github&label=Stars)
 + **[RevisitingCIL]** Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need(arXiv 2023)[[paper]](https://arxiv.org/abs/2303.07338)[[code]](https://github.com/zhoudw-zdw/RevisitingCIL)![GitHub stars](https://img.shields.io/github/stars/zhoudw-zdw/RevisitingCIL.svg?logo=github&label=Stars)
