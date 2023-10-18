@@ -276,6 +276,9 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 # Full Paper List <span id='paper-list'></span>
 
 ## 2023
++ **HiDe-Prompt** Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality(NeurIPS 2023)[[paper]](https://arxiv.org/abs/2310.07234)[[code]](https://github.com/thu-ml/HiDe-Prompt)
++ TriRE: A Multi-Mechanism Learning Paradigm for Continual Knowledge Retention and Promotion(NeurIPS 2023)[[paper]](https://arxiv.org/abs/2310.08217)
++ **AdaB2N** Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation(NeurIPS 2023)[[paper]](https://arxiv.org/abs/2310.08855)[[code]]](https://github.com/lvyilin/AdaB2N)
 + Online Class Incremental Learning on Stochastic Blurry Task Boundary via Mask and Visual Prompt Tuning(ICCV 2023)[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Moon_Online_Class_Incremental_Learning_on_Stochastic_Blurry_Task_Boundary_via_ICCV_2023_paper.pdf)
 + Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning(ICCV 2023)[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Prototype_Reminiscence_and_Augmented_Asymmetric_Knowledge_Aggregation_for_Non-Exemplar_Class-Incremental_ICCV_2023_paper.pdf)
 + When Prompt-based Incremental Learning Does Not Meet Strong Pretraining(ICCV 2023)[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_When_Prompt-based_Incremental_Learning_Does_Not_Meet_Strong_Pretraining_ICCV_2023_paper.pdf)
