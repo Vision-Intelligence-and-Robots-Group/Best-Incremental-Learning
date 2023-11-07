@@ -276,6 +276,8 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 # Full Paper List <span id='paper-list'></span>
 
 ## 2023
++ Semantic Knowledge Guided Class-Incremental Learning() [[paper]](https://ieeexplore.ieee.org/document/10083158)
++ Non-Exemplar Class-Incremental Learning via Adaptive Old Class Reconstruction(ACM MM 2023) [[paper]](https://dl.acm.org/doi/10.1145/3581783.3611926)[[code]](https://github.com/Mysteriousplayer/POLO-NECIL)
 + **HiDe-Prompt** Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality(NeurIPS 2023)[[paper]](https://arxiv.org/abs/2310.07234)[[code]](https://github.com/thu-ml/HiDe-Prompt)
 + TriRE: A Multi-Mechanism Learning Paradigm for Continual Knowledge Retention and Promotion(NeurIPS 2023)[[paper]](https://arxiv.org/abs/2310.08217)
 + **AdaB2N** Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation(NeurIPS 2023)[[paper]](https://arxiv.org/abs/2310.08855)[[code]]](https://github.com/lvyilin/AdaB2N)
