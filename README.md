@@ -275,7 +275,22 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 
 # Full Paper List <span id='paper-list'></span>
 
+
+
+## arXiv
++ Class-Prototype Conditional Diffusion Model for Continual Learning with Generative Replay [[paper]](https://arxiv.org/abs/2312.06710)[[code]](https://github.com/dnkhanh45/cpdm)
+
+
+
+
+
+
+
+
+
 ## 2023
+
++ Cross-Modal Alternating Learning with Task-Aware Representations for Continual Learning(TMM 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10347466)[[code]](https://csgaobb.github.io/)
 + Semantic Knowledge Guided Class-Incremental Learning(TCSVT 2023) [[paper]](https://ieeexplore.ieee.org/document/10083158)
 + Non-Exemplar Class-Incremental Learning via Adaptive Old Class Reconstruction(ACM MM 2023) [[paper]](https://dl.acm.org/doi/10.1145/3581783.3611926)[[code]](https://github.com/Mysteriousplayer/POLO-NECIL)
 + **HiDe-Prompt** Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality(NeurIPS 2023)[[paper]](https://arxiv.org/abs/2310.07234)[[code]](https://github.com/thu-ml/HiDe-Prompt)
