@@ -279,13 +279,13 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 
 ## arXiv
 + Class-Prototype Conditional Diffusion Model for Continual Learning with Generative Replay [[paper]](https://arxiv.org/abs/2312.06710)[[code]](https://github.com/dnkhanh45/cpdm)
++ Class Incremental Learning for Adversarial Robustnes [[paper]](https://arxiv.org/pdf/2312.03289.pdf)
 
 
 
 
 
-
-
+## 2024
 
 
 ## 2023
@@ -297,6 +297,7 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 + TriRE: A Multi-Mechanism Learning Paradigm for Continual Knowledge Retention and Promotion(NeurIPS 2023)[[paper]](https://arxiv.org/abs/2310.08217)
 + **AdaB2N** Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation(NeurIPS 2023)[[paper]](https://arxiv.org/abs/2310.08855)[[code]]](https://github.com/lvyilin/AdaB2N)
 + Online Class Incremental Learning on Stochastic Blurry Task Boundary via Mask and Visual Prompt Tuning(ICCV 2023)[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Moon_Online_Class_Incremental_Learning_on_Stochastic_Blurry_Task_Boundary_via_ICCV_2023_paper.pdf)
++ Decouple Before Interact: Multi-Modal Prompt Learning for Continual Visual Question Answering(ICCV 2023)[[paper]]( https://openaccess.thecvf.com/content/ICCV2023/papers/Qian_Decouple_Before_Interact_Multi-Modal_Prompt_Learning_for_Continual_Visual_Question_ICCV_2023_paper.pdf)
 + Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning(ICCV 2023)[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Prototype_Reminiscence_and_Augmented_Asymmetric_Knowledge_Aggregation_for_Non-Exemplar_Class-Incremental_ICCV_2023_paper.pdf)
 + When Prompt-based Incremental Learning Does Not Meet Strong Pretraining(ICCV 2023)[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_When_Prompt-based_Incremental_Learning_Does_Not_Meet_Strong_Pretraining_ICCV_2023_paper.pdf)
 + Class-incremental Continual Learning for Instance Segmentation with Image-level Weak Supervision(ICCV 2023)[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Hsieh_Class-incremental_Continual_Learning_for_Instance_Segmentation_with_Image-level_Weak_Supervision_ICCV_2023_paper.pdf)
@@ -369,7 +370,7 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 + **[Progressive Prompts]** Progressive Prompts: Continual Learning for Language Models without Forgetting(ICLR 2023)[[paper]](https://openreview.net/pdf?id=UJTgQBc91_)
 + **[SDP]** Online Boundary-Free Continual Learning by Scheduled Data Prior(ICLR 2023)[[paper]](https://openreview.net/pdf?id=qco4ekz2Epm)[[code]](https://github.com/yonseivnl/sdp)![GitHub stars](https://img.shields.io/github/stars/yonseivnl/sdp.svg?logo=github&label=Stars)
 + **[iLDR]** Incremental Learning of Structured Memory via Closed-Loop Transcription(ICLR 2023)[[paper]](https://arxiv.org/pdf/2202.05411.pdf)
-+ **[SoftNet-FSCIL]** On the Soft-Subnetwork for Few-Shot Class Incremental LearningOn the Soft-Subnetwork for Few-Shot Class Incremental Learning(ICLR 2023)[[paper]](https://openreview.net/pdf?id=z57WK5lGeHd)[[code]](https://github.com/ihaeyong/SoftNet-FSCIL)![GitHub stars](https://img.shields.io/github/stars/ihaeyong/SoftNet-FSCIL.svg?logo=github&label=Stars)
++ **[SoftNet-FSCIL]** On the Soft-Subnetwork for Few-Shot Class Incremental Learning On the Soft-Subnetwork for Few-Shot Class Incremental Learning(ICLR 2023)[[paper]](https://openreview.net/pdf?id=z57WK5lGeHd)[[code]](https://github.com/ihaeyong/SoftNet-FSCIL)![GitHub stars](https://img.shields.io/github/stars/ihaeyong/SoftNet-FSCIL.svg?logo=github&label=Stars)
 + **[ESMER]** Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning(ICLR 2023)[[paper]](https://openreview.net/forum?id=zlbci7019Z3)[[code]](https://github.com/NeurAI-Lab/ESMER)![GitHub stars](https://img.shields.io/github/stars/NeurAI-Lab/ESMER.svg?logo=github&label=Stars)
 + **[MEMO]** A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning(ICLR 2023)[[paper]](https://arxiv.org/abs/2205.13218)[[code]](https://github.com/wangkiw/ICLR23-MEMO)![GitHub stars](https://img.shields.io/github/stars/wangkiw/ICLR23-MEMO.svg?logo=github&label=Stars)
 + **[CUDOS]** Continual Unsupervised Disentangling of Self-Organizing Representations(ICLR 2023)[[paper]](https://openreview.net/pdf?id=ih0uFRFhaZZ)
