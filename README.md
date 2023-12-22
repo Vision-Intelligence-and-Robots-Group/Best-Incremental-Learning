@@ -277,8 +277,8 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 
 
 
-## arXiv
-+ Continual Adversarial Defense[[paper]](https://arxiv.org/abs/2312.09481)[[code]](https://github.com/cc13qq/CAD)
+## arXiv (If accepted, welcome corrections)
++ Continual Adversarial Defense [[paper]](https://arxiv.org/abs/2312.09481)[[code]](https://github.com/cc13qq/CAD)
 + Class-Prototype Conditional Diffusion Model for Continual Learning with Generative Replay [[paper]](https://arxiv.org/abs/2312.06710)[[code]](https://github.com/dnkhanh45/cpdm)
 + Class Incremental Learning for Adversarial Robustnes [[paper]](https://arxiv.org/pdf/2312.03289.pdf)
 
