@@ -278,6 +278,7 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 
 
 ## arXiv (If accepted, welcome corrections)
++ Continual Instruction Tuning for Large Multimodal Models [[paper]](https://arxiv.org/abs/2311.16206)
 + Continual Adversarial Defense [[paper]](https://arxiv.org/abs/2312.09481)[[code]](https://github.com/cc13qq/CAD)
 + Class-Prototype Conditional Diffusion Model for Continual Learning with Generative Replay [[paper]](https://arxiv.org/abs/2312.06710)[[code]](https://github.com/dnkhanh45/cpdm)
 + Class Incremental Learning for Adversarial Robustnes [[paper]](https://arxiv.org/pdf/2312.03289.pdf)
@@ -338,7 +339,7 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 + Continual Zero-Shot Learning through Semantically Guided Generative Random Walks(ICCV 2023)[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Continual_Zero-Shot_Learning_through_Semantically_Guided_Generative_Random_Walks_ICCV_2023_paper.pdf)
 + A Soft Nearest-Neighbor Framework for Continual Semi-Supervised Learning(ICCV 2023)[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Kang_A_Soft_Nearest-Neighbor_Framework_for_Continual_Semi-Supervised_Learning_ICCV_2023_paper.pdf)
 + Online Continual Learning on Hierarchical Label Expansion(ICCV 2023)[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Online_Continual_Learning_on_Hierarchical_Label_Expansion_ICCV_2023_paper.pdf)
-
++ Investigating the Catastrophic Forgetting in Multimodal Large Language Models (NeurIPS Workshop 23) [[paper]](https://arxiv.org/abs/2309.10313)
 + Generating Instance-level Prompts for Rehearsal-free Continual Learning(ICCV 2023)[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Jung_Generating_Instance-level_Prompts_for_Rehearsal-free_Continual_Learning_ICCV_2023_paper.pdf)
 + Heterogeneous Continual Learning(CVPR 2023)[[paper]](https://arxiv.org/abs/2306.08593)
 + Partial Hypernetworks for Continual Learning(CoLLAs 2023)[[paper]](https://arxiv.org/abs/2306.10724)
