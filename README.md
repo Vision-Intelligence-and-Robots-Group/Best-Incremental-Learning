@@ -29,6 +29,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 + Catastrophic Interference in Connectionist Networks: The Sequential Learning Problem(1989)[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0079742108605368)
 
 **Toolbox & Framework**
++ **[LAMDA-PILOT]** PILOT: A Pre-Trained Model-Based Continual Learning Toolbox(arXiv 2023)[[paper]](https://arxiv.org/abs/2309.07117)[[code]](https://github.com/sun-hailong/LAMDA-PILOT)
 
 + **[FACIL]** Class-incremental learning: survey and performance evaluation on image classification(TPAMI 2022)[[paper]](https://arxiv.org/abs/2010.15277)[[code]](https://github.com/mmasana/FACIL)![GitHub stars](https://img.shields.io/github/stars/mmasana/FACIL.svg?logo=github&label=Stars)
 
