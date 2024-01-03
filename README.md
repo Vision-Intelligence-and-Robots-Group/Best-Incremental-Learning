@@ -283,6 +283,9 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 + Continual Adversarial Defense [[paper]](https://arxiv.org/abs/2312.09481)[[code]](https://github.com/cc13qq/CAD)
 + Class-Prototype Conditional Diffusion Model for Continual Learning with Generative Replay [[paper]](https://arxiv.org/abs/2312.06710)[[code]](https://github.com/dnkhanh45/cpdm)
 + Class Incremental Learning for Adversarial Robustnes [[paper]](https://arxiv.org/pdf/2312.03289.pdf)
++ KOPPA: Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All [[paper]](https://arxiv.org/abs/2311.15414)
++ Prompt Gradient Projection for Continual Learning [[paper]](https://openreview.net/forum?id=EH2O3h7sBI)
+
 
 
 
