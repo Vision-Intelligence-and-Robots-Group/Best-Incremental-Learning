@@ -292,6 +292,9 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 
 ## 2024
 
++ Adaptive instance similarity embedding for online continual learning (Pattern Recognition) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320323009354#:~:text=We%20propose%20a%20novel%20adaptive,the%20same%20class%20or%20not)
+
+
 
 ## 2023
 
