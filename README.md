@@ -293,8 +293,20 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 ## 2024
 
 + Adaptive instance similarity embedding for online continual learning (Pattern Recognition) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320323009354#:~:text=We%20propose%20a%20novel%20adaptive,the%20same%20class%20or%20not)
-
-
++ Divide and not forget: Ensemble of  selectively trained experts in Continual Learning(ICLR 2024) [[paper]](https://openreview.net/forum?id=sSyytcewxe)
++ Online Continual Learning for Interactive Instruction Following Agents(ICLR 2024) [[paper]](https://openreview.net/forum?id=7M0EzjugaN)
++ Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks(ICLR 2024) [[paper]](https://openreview.net/forum?id=MeB86edZ1P)
++ Class Incremental Learning via Likelihood Ratio Based Task Prediction(ICLR 2024) [[paper]](https://openreview.net/forum?id=8QfK9Dq4q0)
++ Accurate Forgetting for Heterogeneous Federated Continual Learning(ICLR 2024) [[paper]](https://openreview.net/forum?id=ShQrnAsbPI)[[code]](https://anonymous.4open.science/r/AF-FCL-7D65)
++ Elastic Feature Consolidation For Cold Start Exemplar-Free Incremental Learning(ICLR 2024) [[paper]](https://openreview.net/forum?id=7D9X2cFnt1)
++ Continual Learning on a Diet:Learning from Sparsely Labeled Streams Under Constrained Computation(ICLR 2024) [[paper]](https://openreview.net/forum?id=Xvfz8NHmCj)
++ A Probabilistic Framework for Modular Continual Learning(ICLR 2024) [[paper]](https://openreview.net/forum?id=MVe2dnWPCu)
++ OVOR: OnePrompt with Virtual Outlier Regularization for Rehearsal-Free Class-Incremental Learning(ICLR 2024) [[paper]](https://openreview.net/forum?id=FbuyDzZTPt)
++ Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline(ICLR 2024) [[paper]](https://openreview.net/forum?id=3Y7r6xueJJ)
++ Prediction Error-based Classification for Class-Incremental Learning(ICLR 2024) [[paper]](https://openreview.net/forum?id=DJZDgMOLXQ)
++ A Unified and General Framework for Continual Learning(ICLR 2024) [[paper]](https://openreview.net/forum?id=BE5aK0ETbp)
++ CPPO: Continual Learning for Reinforcement Learning with Human Feedback(ICLR 2024) [[paper]](https://openreview.net/forum?id=86zAUE80pP)
++ Scalable Language Model with Generalized Continual Learning(ICLR 2024) [[paper]](https://openreview.net/forum?id=mz8owj4DXu)
 
 ## 2023
 
