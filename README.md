@@ -310,7 +310,7 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 + Scalable Language Model with Generalized Continual Learning(ICLR 2024) [[paper]](https://openreview.net/forum?id=mz8owj4DXu)
 
 ## 2023
-
++ A Unified Continual Learning Framework with General Parameter-Efficient Tuning(ICCV 2023) [[paper]](https://arxiv.org/abs/2303.10070)[[code]](https://github.com/gqk/LAE?tab=readme-ov-file)
 + Cross-Modal Alternating Learning with Task-Aware Representations for Continual Learning(TMM 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10347466)[[code]](https://csgaobb.github.io/)
 + Semantic Knowledge Guided Class-Incremental Learning(TCSVT 2023) [[paper]](https://ieeexplore.ieee.org/document/10083158)
 + Non-Exemplar Class-Incremental Learning via Adaptive Old Class Reconstruction(ACM MM 2023) [[paper]](https://dl.acm.org/doi/10.1145/3581783.3611926)[[code]](https://github.com/Mysteriousplayer/POLO-NECIL)
