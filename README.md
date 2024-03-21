@@ -22,7 +22,7 @@ Incremental Learning Repository: A collection of documents, papers, source code,
 
 **Origin of the Study**
 
-+ Catastrophic Forgetting, Rehearsal and Pseudorehearsal(2001)[[paper]](https://www.tandfonline.com/doi/abs/10.1080/09540099550039318)
++ Catastrophic Forgetting, Rehearsal and Pseudorehearsal(1995)[[paper]](https://www.tandfonline.com/doi/abs/10.1080/09540099550039318)
 
 + Catastrophic forgetting in connectionist networks(1999)[[paper]](https://www.sciencedirect.com/science/article/pii/S1364661399012942)
 
