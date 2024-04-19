@@ -294,7 +294,7 @@ Should there be any concerns on this page, please don't hesitate to let us know 
 
 
 ## 2024
-+ **MOSE** Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation(CVPR 2024) [[paper]](https://arxiv.org/abs/2404.00417)[[code]](https://github.com/AnAppleCore/MOSE)
++ **[MOSE]** Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation(CVPR 2024) [[paper]](https://arxiv.org/abs/2404.00417)[[code]](https://github.com/AnAppleCore/MOSE)
 + Exploring Domain Incremental Video Highlights Detection with the LiveFood Benchmark(AAAI 2024) [[paper]](https://arxiv.org/abs/2209.05166)[[code]](https://github.com/ForeverPs/IncrementalVHD_GPE)
 + Adaptive instance similarity embedding for online continual learning (Pattern Recognition) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320323009354#:~:text=We%20propose%20a%20novel%20adaptive,the%20same%20class%20or%20not)
 + TiC-CLIP: Continual Training of CLIP Models(ICLR 2024) [[paper]](https://openreview.net/forum?id=TLADT8Wrhn)
